@@ -51,19 +51,13 @@ for(idx in 1:length(xml_files)){
     if(length(default_currency)==0){
       default_currency = NA
     }
+    reporting_org_ref = NA
     reporting_org_elem = getNodeSet(activity,"./reporting-org")
     reporting_org_attrs = sapply(reporting_org_elem,xmlAttrs)
     if(length(reporting_org_attrs)>0){
       if("ref" %in% names(reporting_org_attrs)){
         reporting_org_ref = reporting_org_attrs[["ref"]]
-      }else{
-        reporting_org_ref = sapply(reporting_org_elem,xmlValue)
       }
-    }else{
-      reporting_org_ref = sapply(reporting_org_elem,xmlValue)
-    }
-    if(length(reporting_org_ref)==0){
-      reporting_org_ref = NA
     }
     transactions = getNodeSet(activity,"./transaction")
     if(length(transactions)>0){
