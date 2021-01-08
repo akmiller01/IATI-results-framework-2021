@@ -28,8 +28,6 @@ setwd("~/git/IATI-results-framework-2020/output")
 # 
 # ggplot(dat2019,aes(x=bin)) + geom_bar()
 
-t_types = c("C","c","2","D","d","3")
-
 xml_files = list.files(path="~/git/IATI-Better-Refresher/data",full.names=T)
 dat_list = list()
 dat_index = 1
@@ -53,21 +51,29 @@ for(idx in 1:length(xml_files)){
     if(length(default_currency)==0){
       default_currency = NA
     }
-    reporting_org_elem = getNodeSet(activity,"./reporting-org")[[1]]
-    reporting_org_attrs = xmlAttrs(reporting_org_elem)
+    reporting_org_elem = getNodeSet(activity,"./reporting-org")
+    reporting_org_attrs = sapply(reporting_org_elem,xmlAttrs)
     if(length(reporting_org_attrs)>0){
       if("ref" %in% names(reporting_org_attrs)){
         reporting_org_ref = reporting_org_attrs[["ref"]]
       }else{
-        reporting_org_ref = xmlValue(reporting_org_elem)
+        reporting_org_ref = sapply(reporting_org_elem,xmlValue)
       }
     }else{
-      reporting_org_ref = xmlValue(reporting_org_elem)
+      reporting_org_ref = sapply(reporting_org_elem,xmlValue)
+    }
+    if(length(reporting_org_ref)==0){
+      reporting_org_ref = NA
     }
     transactions = getNodeSet(activity,"./transaction")
     if(length(transactions)>0){
       for(transaction in transactions){
-        t_type = getNodeSet(transaction,"./transaction-type/@code")[[1]][["code"]]
+        if(length(getNodeSet(transaction,"./transaction-type/@code"))==0){
+          t_type = NA
+        }else{
+          t_type = getNodeSet(transaction,"./transaction-type/@code")[[1]][["code"]]
+        }
+        
         if(length(getNodeSet(transaction,"./transaction-date/@iso-date"))==0){
           t_date = NULL
         }else{
