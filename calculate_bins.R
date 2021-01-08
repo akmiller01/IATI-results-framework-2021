@@ -66,7 +66,11 @@ for(idx in 1:length(xml_files)){
         if(length(transactions)>0){
           for(transaction in transactions){
             t_type = getNodeSet(transaction,"./transaction-type/@code")[[1]][["code"]]
-            t_date = getNodeSet(transaction,"./transaction-date/@iso-date")[[1]][["iso-date"]]
+            if(length(getNodeSet(transaction,"./transaction-date/@iso-date"))==0){
+              t_date = NULL
+            }else{
+              t_date = getNodeSet(transaction,"./transaction-date/@iso-date")[[1]][["iso-date"]]
+            }
             t_value_elem = getNodeSet(transaction,"./value")
             if(length(t_value_elem)>0){
               t_value = as.numeric(gsub(",","",sapply(t_value_elem,xmlValue)))
