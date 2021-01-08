@@ -95,6 +95,7 @@ for(idx in 1:length(xml_files)){
       rm(iati_identifier,default_currency,reporting_org_elem,reporting_org_attrs,reporting_org_ref,transactions)
     }
   }
+  rm(xml_dat)
 }
 close(pb)
 
