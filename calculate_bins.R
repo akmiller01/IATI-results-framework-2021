@@ -53,10 +53,10 @@ for(idx in 1:length(xml_files)){
     }
     reporting_org_ref = NA
     reporting_org_elem = getNodeSet(activity,"./reporting-org")
-    reporting_org_attrs = sapply(reporting_org_elem,xmlAttrs)
+    reporting_org_attrs = unlist(sapply(reporting_org_elem,xmlAttrs))
     if(length(reporting_org_attrs)>0){
-      if("ref" %in% names(reporting_org_attrs)){
-        reporting_org_ref = reporting_org_attrs[["ref"]]
+      if("ref" %in% names(reporting_org_attrs[,1])){
+        reporting_org_ref = reporting_org_attrs[,1][["ref"]]
       }
     }
     transactions = getNodeSet(activity,"./transaction")
@@ -89,7 +89,7 @@ for(idx in 1:length(xml_files)){
           }
           if(!is.na(t_date) & !is.na(t_value) & !is.na(t_currency) & !is.na(reporting_org_ref) &
              t_date!="" & t_value!="" & t_currency!="" & reporting_org_ref!=""){
-            dat_list[[dat_index]] = data.frame(iati_identifier,type=t_type,date=t_date,value=t_value,currency=t_currency)
+            dat_list[[dat_index]] = data.frame(iati_identifier,reporting_org_ref,type=t_type,date=t_date,value=t_value,currency=t_currency)
             dat_index = dat_index + 1
           }
           rm(t_type,t_date,t_value_elem,t_value,t_currency)
