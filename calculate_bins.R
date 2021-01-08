@@ -6,27 +6,27 @@ rm(list.of.packages,new.packages)
 
 setwd("~/git/IATI-results-framework-2020/output")
 
-dat2019 = fread("total_spend_2019_by_publisher.csv")
-
-dat2019$bin = "<=1M"
-dat2019$bin[which(dat2019$total.spend<=1000000)] = "<=1M"
-dat2019$bin[which(dat2019$total.spend>1000000 & dat2019$total.spend<=10000000)] = "> 1M & <= 10M"
-dat2019$bin[which(dat2019$total.spend>10000000 & dat2019$total.spend<=100000000)] = "> 10M & <= 100M"
-dat2019$bin[which(dat2019$total.spend>100000000 & dat2019$total.spend<=1000000000)] = "> 100M & <= 1B"
-dat2019$bin[which(dat2019$total.spend>1000000000)] = "> 1B"
-
-dat2019$bin = factor(
-  dat2019$bin,
-  levels=c(
-    "<=1M",
-    "> 1M & <= 10M",
-    "> 10M & <= 100M",
-    "> 100M & <= 1B",
-    "> 1B"
-  )
-)
-
-ggplot(dat2019,aes(x=bin)) + geom_bar()
+# dat2019 = fread("total_spend_2019_by_publisher.csv")
+# 
+# dat2019$bin = "<=1M"
+# dat2019$bin[which(dat2019$total.spend<=1000000)] = "<=1M"
+# dat2019$bin[which(dat2019$total.spend>1000000 & dat2019$total.spend<=10000000)] = "> 1M & <= 10M"
+# dat2019$bin[which(dat2019$total.spend>10000000 & dat2019$total.spend<=100000000)] = "> 10M & <= 100M"
+# dat2019$bin[which(dat2019$total.spend>100000000 & dat2019$total.spend<=1000000000)] = "> 100M & <= 1B"
+# dat2019$bin[which(dat2019$total.spend>1000000000)] = "> 1B"
+# 
+# dat2019$bin = factor(
+#   dat2019$bin,
+#   levels=c(
+#     "<=1M",
+#     "> 1M & <= 10M",
+#     "> 10M & <= 100M",
+#     "> 100M & <= 1B",
+#     "> 1B"
+#   )
+# )
+# 
+# ggplot(dat2019,aes(x=bin)) + geom_bar()
 
 t_types = c("C","c","2","D","d","3")
 
@@ -38,8 +38,8 @@ for(idx in 1:length(xml_files)){
   setTxtProgressBar(pb,idx)
   xml_file = xml_files[idx]
   
-  try(
-    {
+  # try(
+  #   {
       xml_dat = xmlParse(xml_file)
       activities = getNodeSet(xml_dat, "//iati-activity")
       for(activity in activities){
@@ -47,32 +47,43 @@ for(idx in 1:length(xml_files)){
         if(length(iati_identifier)==0){
           iati_identifier = NA
         }
+        default_currency = xmlGetAttr(activity,"default-currency")
+        if(length(default_currency)==0){
+          default_currency = NA
+        }
         reporting_org_ref	= getNodeSet(activity,"./reporting-org/@ref")[[1]][["ref"]]
         transactions = getNodeSet(activity,"./transaction")
         if(length(transactions)>0){
           for(transaction in transactions){
             t_type = getNodeSet(transaction,"./transaction-type/@code")[[1]][["code"]]
             t_date = getNodeSet(transaction,"./transaction-date/@iso-date")[[1]][["iso-date"]]
-            t_value = sapply(getNodeSet(transaction,"./value"),xmlValue)
-            dat_list[[dat_index]] = data.frame(iati_identifier,transaction="Transaction",type=t_type,date=t_date,value=t_value)
-            dat_index = dat_index + 1
+            t_value_elem = getNodeSet(transaction,"./value")
+            if(length(t_value_elem)>0){
+              t_value = as.numeric(gsub(",","",sapply(t_value_elem,xmlValue)))
+              t_currency = sapply(t_value_elem,xmlGetAttr,"currency")[[1]]
+              if(length(t_currency)==0){
+                t_currency = default_currency
+              }
+              t_value_date = sapply(t_value_elem,xmlGetAttr,"value-date")[[1]]
+              if(length(t_date)==0){
+                t_date = t_value_date
+              }
+              if(length(t_date)==0){
+                t_date = NA
+              }
+              dat_list[[dat_index]] = data.frame(iati_identifier,type=t_type,date=t_date,value=t_value,currency=t_currency)
+              dat_index = dat_index + 1
+              rm(t_type,t_date,t_value_elem,t_value,t_currency)
+            }
           }
-        }
-        budgets = getNodeSet(activity,"./budget")
-        if(length(budgets)>0){
-          for(budget in budgets){
-            b_type = xmlGetAttr(budget,"type")
-            b_date = getNodeSet(budget,"./period-start/@iso-date")[[1]][["iso-date"]]
-            b_value = sapply(getNodeSet(budget,"./value"),xmlValue)
-            dat_list[[dat_index]] = data.frame(iati_identifier,transaction="Budget",type=b_type,date=b_date,value=b_value)
-            dat_index = dat_index + 1
-          }
+          rm(iati_identifier,default_currency,reporting_org_ref,transactions)
         }
       }
-    }
-  )
+  #   }
+  # )
   
 }
 close(pb)
 
-sum_dat = rbindlist(dat_list)
+dat = rbindlist(dat_list)
+save(dat,file="results_framework_transactions.RData")
