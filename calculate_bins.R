@@ -51,7 +51,17 @@ for(idx in 1:length(xml_files)){
         if(length(default_currency)==0){
           default_currency = NA
         }
-        reporting_org_ref	= getNodeSet(activity,"./reporting-org/@ref")[[1]][["ref"]]
+        reporting_org_elem = getNodeSet(activity,"./reporting-org")[[1]]
+        reporting_org_attrs = xmlAttrs(reporting_org_elem)
+        if(length(reporting_org_attrs)>0){
+          if("ref" %in% names(reporting_org_attrs)){
+            reporting_org_ref = reporting_org_attrs[["ref"]]
+          }else{
+            reporting_org_ref = xmlValue(reporting_org_elem)
+          }
+        }else{
+          reporting_org_ref = xmlValue(reporting_org_elem)
+        }
         transactions = getNodeSet(activity,"./transaction")
         if(length(transactions)>0){
           for(transaction in transactions){
@@ -76,7 +86,7 @@ for(idx in 1:length(xml_files)){
               rm(t_type,t_date,t_value_elem,t_value,t_currency)
             }
           }
-          rm(iati_identifier,default_currency,reporting_org_ref,transactions)
+          rm(iati_identifier,default_currency,reporting_org_elem,reporting_org_attrs,reporting_org_ref,transactions)
         }
       }
   #   }
