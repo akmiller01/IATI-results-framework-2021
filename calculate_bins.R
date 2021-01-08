@@ -37,65 +37,64 @@ pb = txtProgressBar(max=length(xml_files),style=3)
 for(idx in 1:length(xml_files)){
   setTxtProgressBar(pb,idx)
   xml_file = xml_files[idx]
+  xml_dat <- tryCatch(
+    xmlParse(xml_file),
+    error=function(e) e
+  )
   
-  # try(
-  #   {
-      xml_dat = xmlParse(xml_file)
-      activities = getNodeSet(xml_dat, "//iati-activity")
-      for(activity in activities){
-        iati_identifier = sapply(getNodeSet(activity,"./iati-identifier"),xmlValue)
-        if(length(iati_identifier)==0){
-          iati_identifier = NA
-        }
-        default_currency = xmlGetAttr(activity,"default-currency")
-        if(length(default_currency)==0){
-          default_currency = NA
-        }
-        reporting_org_elem = getNodeSet(activity,"./reporting-org")[[1]]
-        reporting_org_attrs = xmlAttrs(reporting_org_elem)
-        if(length(reporting_org_attrs)>0){
-          if("ref" %in% names(reporting_org_attrs)){
-            reporting_org_ref = reporting_org_attrs[["ref"]]
-          }else{
-            reporting_org_ref = xmlValue(reporting_org_elem)
-          }
+  if(inherits(xml_dat, "error")){next}
+  activities = getNodeSet(xml_dat, "//iati-activity")
+  for(activity in activities){
+    iati_identifier = sapply(getNodeSet(activity,"./iati-identifier"),xmlValue)
+    if(length(iati_identifier)==0){
+      iati_identifier = NA
+    }
+    default_currency = xmlGetAttr(activity,"default-currency")
+    if(length(default_currency)==0){
+      default_currency = NA
+    }
+    reporting_org_elem = getNodeSet(activity,"./reporting-org")[[1]]
+    reporting_org_attrs = xmlAttrs(reporting_org_elem)
+    if(length(reporting_org_attrs)>0){
+      if("ref" %in% names(reporting_org_attrs)){
+        reporting_org_ref = reporting_org_attrs[["ref"]]
+      }else{
+        reporting_org_ref = xmlValue(reporting_org_elem)
+      }
+    }else{
+      reporting_org_ref = xmlValue(reporting_org_elem)
+    }
+    transactions = getNodeSet(activity,"./transaction")
+    if(length(transactions)>0){
+      for(transaction in transactions){
+        t_type = getNodeSet(transaction,"./transaction-type/@code")[[1]][["code"]]
+        if(length(getNodeSet(transaction,"./transaction-date/@iso-date"))==0){
+          t_date = NULL
         }else{
-          reporting_org_ref = xmlValue(reporting_org_elem)
+          t_date = getNodeSet(transaction,"./transaction-date/@iso-date")[[1]][["iso-date"]]
         }
-        transactions = getNodeSet(activity,"./transaction")
-        if(length(transactions)>0){
-          for(transaction in transactions){
-            t_type = getNodeSet(transaction,"./transaction-type/@code")[[1]][["code"]]
-            if(length(getNodeSet(transaction,"./transaction-date/@iso-date"))==0){
-              t_date = NULL
-            }else{
-              t_date = getNodeSet(transaction,"./transaction-date/@iso-date")[[1]][["iso-date"]]
-            }
-            t_value_elem = getNodeSet(transaction,"./value")
-            if(length(t_value_elem)>0){
-              t_value = as.numeric(gsub(",","",sapply(t_value_elem,xmlValue)))
-              t_currency = sapply(t_value_elem,xmlGetAttr,"currency")[[1]]
-              if(length(t_currency)==0){
-                t_currency = default_currency
-              }
-              t_value_date = sapply(t_value_elem,xmlGetAttr,"value-date")[[1]]
-              if(length(t_date)==0){
-                t_date = t_value_date
-              }
-              if(length(t_date)==0){
-                t_date = NA
-              }
-              dat_list[[dat_index]] = data.frame(iati_identifier,type=t_type,date=t_date,value=t_value,currency=t_currency)
-              dat_index = dat_index + 1
-              rm(t_type,t_date,t_value_elem,t_value,t_currency)
-            }
+        t_value_elem = getNodeSet(transaction,"./value")
+        if(length(t_value_elem)>0){
+          t_value = as.numeric(gsub(",","",sapply(t_value_elem,xmlValue)))
+          t_currency = sapply(t_value_elem,xmlGetAttr,"currency")[[1]]
+          if(length(t_currency)==0){
+            t_currency = default_currency
           }
-          rm(iati_identifier,default_currency,reporting_org_elem,reporting_org_attrs,reporting_org_ref,transactions)
+          t_value_date = sapply(t_value_elem,xmlGetAttr,"value-date")[[1]]
+          if(length(t_date)==0){
+            t_date = t_value_date
+          }
+          if(length(t_date)==0){
+            t_date = NA
+          }
+          dat_list[[dat_index]] = data.frame(iati_identifier,type=t_type,date=t_date,value=t_value,currency=t_currency)
+          dat_index = dat_index + 1
+          rm(t_type,t_date,t_value_elem,t_value,t_currency)
         }
       }
-  #   }
-  # )
-  
+      rm(iati_identifier,default_currency,reporting_org_elem,reporting_org_attrs,reporting_org_ref,transactions)
+    }
+  }
 }
 close(pb)
 
