@@ -87,8 +87,11 @@ for(idx in 1:length(xml_files)){
           if(length(t_date)==0){
             t_date = NA
           }
-          dat_list[[dat_index]] = data.frame(iati_identifier,type=t_type,date=t_date,value=t_value,currency=t_currency)
-          dat_index = dat_index + 1
+          if(!is.na(t_date) & !is.na(t_value) & !is.na(t_currency) & !is.na(reporting_org_ref) &
+             t_date!="" & t_value!="" & t_currency!="" & reporting_org_ref!=""){
+            dat_list[[dat_index]] = data.frame(iati_identifier,type=t_type,date=t_date,value=t_value,currency=t_currency)
+            dat_index = dat_index + 1
+          }
           rm(t_type,t_date,t_value_elem,t_value,t_currency)
         }
       }
