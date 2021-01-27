@@ -55,7 +55,7 @@ acet,102.1.1,"When reporting sectors, it is recommended that if a publisher uses
 acet,2.1.1,"Percentages are missing for one or more sectors, within a vocabulary (e.g. 1 - OECD DAC).",2,> 1M & <= 10M,2019
 acf,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",3,> 10M & <= 100M,2019
 acf,3.4.1,Percentages are missing for one or more recipient countries or regions.,29,> 10M & <= 100M,2019
-acfshr,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",1,<=1M,
+acfshr,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",1,> 1M & <= 10M,2019
 acfspain,6.9.1,The organisation must have an identifier or a narrative.,1,<=1M,
 acfspain,2.2.1,"When using a reporting organisation sector code, it must include a narrative.",11,<=1M,
 acfspain,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",11,<=1M,
@@ -262,8 +262,8 @@ aiddata,11.1.3,The actual start date must be before the actual end date.,16,<=1M
 aiddata,9.77.1,The OECD DAC category is invalid.,3765,<=1M,
 aiddata,3.1.2,"Percentages for recipient countries, must add up to 100%.",19,<=1M,
 aidenvironment,7.5.3,Budget Period must not be longer than one year.,6,<=1M,2019
-aipr,2.1.4,"For a single sector, the percentage must either be omitted, or set to 100.",2,<=1M,
-aipr,8.8.1,"The baseline must have a value when indicator measure is unit (1), percentage (2), nominal (3) or ordinal (4).",1,<=1M,
+aipr,2.1.4,"For a single sector, the percentage must either be omitted, or set to 100.",2,<=1M,2019
+aipr,8.8.1,"The baseline must have a value when indicator measure is unit (1), percentage (2), nominal (3) or ordinal (4).",1,<=1M,2019
 aiuk,6.14.1,"When using a policy marker for vocabulary 1, it must include a significance.",1,<=1M,
 aiuk,3.4.1,Percentages are missing for one or more recipient countries or regions.,1,<=1M,
 ajar,8.9.3,The target value should be omitted for qualitative measures.,2,<=1M,2020
@@ -593,8 +593,8 @@ brulocalis,1.15.13,"The identifier must not contain any of the symbols /, &, | o
 bsf1,11.1.5,The actual end date of the activity must not be in the future.,1,<=1M,
 bsf1,2.1.1,"Percentages are missing for one or more sectors, within a vocabulary (e.g. 1 - OECD DAC).",1,<=1M,
 bsr_admin,6.9.1,The organisation must have an identifier or a narrative.,2,<=1M,
-bu,8.8.1,"The baseline must have a value when indicator measure is unit (1), percentage (2), nominal (3) or ordinal (4).",2,<=1M,
-bu,1.14.8,The reporting-org identifier does not start with a known prefix.,2,<=1M,
+bu,8.8.1,"The baseline must have a value when indicator measure is unit (1), percentage (2), nominal (3) or ordinal (4).",2,> 1B,2019
+bu,1.14.8,The reporting-org identifier does not start with a known prefix.,2,> 1B,2019
 bu-carbx-admin,11.1.5,The actual end date of the activity must not be in the future.,4,> 1M & <= 10M,2020
 bucksfarm,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",1,> 1B,2018
 buildafrica,6.9.1,The provider and receiver organisation must have an organisation identifier or a narrative.,1,<=1M,2019
@@ -1045,17 +1045,17 @@ djapo,8.10.1,"The actual must have a value when indicator measure is unit (1), p
 dki1151219,11.1.5,The actual end date of the activity must not be in the future.,1,<=1M,2019
 dki1151219,2.1.1,"Percentages are missing for one or more sectors, within a vocabulary (e.g. 1 - OECD DAC).",1,<=1M,2019
 dki1151219,1.3.1,The identifier should not start or end with spaces or newlines.,1,<=1M,2019
-dkt_ethiopia,8.10.2,The @value should be a valid number for all non-qualitative measures.,12,<=1M,
-dkt_ethiopia,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,4,<=1M,
-dkt_ethiopia,6.14.1,"When using a policy marker for vocabulary 1, it must include a significance.",5,<=1M,
-dkt_ethiopia,8.9.2,The @value should be a valid number for all non-qualitative measures.,11,<=1M,
-dkt_ethiopia,3.4.1,Percentages are missing for one or more recipient countries or regions.,5,<=1M,
-dkt_ethiopia,1.5.1,The identifier should not start or end with spaces or newlines.,1,<=1M,
+dkt_ethiopia,8.10.2,The @value should be a valid number for all non-qualitative measures.,12,> 1M & <= 10M,2019
+dkt_ethiopia,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,4,> 1M & <= 10M,2019
+dkt_ethiopia,6.14.1,"When using a policy marker for vocabulary 1, it must include a significance.",5,> 1M & <= 10M,2019
+dkt_ethiopia,8.9.2,The @value should be a valid number for all non-qualitative measures.,11,> 1M & <= 10M,2019
+dkt_ethiopia,3.4.1,Percentages are missing for one or more recipient countries or regions.,5,> 1M & <= 10M,2019
+dkt_ethiopia,1.5.1,The identifier should not start or end with spaces or newlines.,1,> 1M & <= 10M,2019
 dla,6.9.1,The provider and receiver organisation must have an organisation identifier or a narrative.,1,> 10M & <= 100M,2018
 dla,1.10.1,The identifier should not start or end with spaces or newlines.,1,> 10M & <= 100M,2018
 dla,1.4.1,The identifier should not start or end with spaces or newlines.,1,> 10M & <= 100M,2018
-dmru,6.9.1,The organisation must have an identifier or a narrative.,1,<=1M,
-dmru,1.5.1,The identifier should not start or end with spaces or newlines.,1,<=1M,
+dmru,6.9.1,The organisation must have an identifier or a narrative.,1,,
+dmru,1.5.1,The identifier should not start or end with spaces or newlines.,1,,
 dndi_transparency,102.1.1,"When a non OECD DAC sector vocabulary is used, sector vocabulary 1 - OECD DAC should also be used.",28,> 10M & <= 100M,2019
 dndi_transparency,6.13.1,"When using a reporting organisation policy marker code (vocabulary 99), it must include a narrative.",26,> 10M & <= 100M,2019
 dorp-org,9.3.1,The default currency code is invalid.,1,<=1M,
@@ -1185,7 +1185,7 @@ ecuk,6.14.1,"When using a policy marker for vocabulary 1, it must include a sign
 ecuk,11.2.1,The transaction date must not be in the future.,1,<=1M,2020
 edt_kenya,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",1,> 1M & <= 10M,2019
 edt_kenya,1.8.13,"The identifier must not contain any of the symbols /, &, | or ?.",1,> 1M & <= 10M,2019
-edt_rwanda,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",1,<=1M,
+edt_rwanda,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",1,> 1M & <= 10M,2019
 edukans_foundation,11.1.5,The actual end date of the activity must not be in the future.,1,> 10M & <= 100M,2019
 edukans_foundation,2.1.2,"Percentages for sectors, within a vocabulary (e.g. 1 - OECD DAC), must add up to 100%.",2,> 10M & <= 100M,2019
 edukans_foundation,3.7.1,The activity should have recipient-country or recipient-region information for either the activity or for all transactions.,1,> 10M & <= 100M,2019
@@ -1239,9 +1239,9 @@ esrf,2.2.1,"When using a reporting organisation sector code, it must include a n
 esrf,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",1,<=1M,2018
 ethiopiaiduk,3.7.1,The activity should have recipient-country or recipient-region information for either the activity or for all transactions.,1,> 1M & <= 10M,2018
 ethiopiaiduk,2.1.1,"Percentages are missing for one or more sectors, within a vocabulary (e.g. 1 - OECD DAC).",12,> 1M & <= 10M,2018
-eti,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",1,<=1M,
-eti,1.14.8,The reporting-org identifier does not start with a known prefix.,1,<=1M,
-eti,1.14.1,The reporting-org identifier should not start or end with spaces or newlines.,1,<=1M,
+eti,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",1,<=1M,2020
+eti,1.14.8,The reporting-org identifier does not start with a known prefix.,1,<=1M,2020
+eti,1.14.1,The reporting-org identifier should not start or end with spaces or newlines.,1,<=1M,2020
 f-aids,3.7.1,Recipient country or recipient region should be declared for either the activity or for all transactions.,4,> 1B,2019
 f-aids,8.10.1,"The actual must have a value when the indicator measure is non-qualitative (e.g. 1 = unit, 2 = percentage, 3 = nominal, 4 = ordinal).",1,> 1B,2019
 f-aids,8.10.2,"The actual value should be a valid number for all non-qualitative indicator measures (e.g. 1 = unit, 2 = percentage, 3 = nominal, 4 = ordinal).",2,> 1B,2019
@@ -1302,7 +1302,7 @@ fci,4.4.1,The description has no narrative content.,1,> 100M & <= 1B,2019
 femnet,11.1.5,The actual end date of the activity must not be in the future.,1,<=1M,2020
 fh,1.8.13,"The identifier must not contain any of the symbols /, &, | or ?.",2,<=1M,2020
 fh,1.15.13,"The identifier must not contain any of the symbols /, &, | or ?.",2,<=1M,2020
-fh_ch,2.1.1,"When multiple sectors, within a vocabulary (e.g. 1 - OECD DAC) are declared, each must have a percentage.",3,<=1M,
+fh_ch,2.1.1,"When multiple sectors, within a vocabulary (e.g. 1 - OECD DAC) are declared, each must have a percentage.",3,<=1M,2020
 fiabel,8.10.2,The @value should be a valid number for all non-qualitative measures.,2,<=1M,2018
 fiabel,6.14.1,"When using a policy marker for vocabulary 1, it must include a significance.",1,<=1M,2018
 fian-belgium,11.2.1,The transaction date must not be in the future.,1,<=1M,2019
@@ -1481,10 +1481,10 @@ growmovement_admin,9.76.1,The OECD DAC sector is invalid.,1,<=1M,
 growmovement_admin,3.1.1,Percentages are missing for one or more recipient countries.,1,<=1M,
 growmovement_admin,6.6.2,Sectors are present at both the activity AND transaction level. Sectors should only be present at activity OR transaction level.,1,<=1M,
 growmovement_admin,9.90.1,The OECD DAC sector is invalid.,1,<=1M,
-ha-i,8.10.2,The @value should be a valid number for all non-qualitative measures.,1,<=1M,
-ha-i,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",1,<=1M,
-ha-i,8.9.2,The @value should be a valid number for all non-qualitative measures.,1,<=1M,
-ha-i,8.8.1,"The baseline must have a value when indicator measure is unit (1), percentage (2), nominal (3) or ordinal (4).",1,<=1M,
+ha-i,8.10.2,The @value should be a valid number for all non-qualitative measures.,1,> 1B,2020
+ha-i,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",1,> 1B,2020
+ha-i,8.9.2,The @value should be a valid number for all non-qualitative measures.,1,> 1B,2020
+ha-i,8.8.1,"The baseline must have a value when indicator measure is unit (1), percentage (2), nominal (3) or ordinal (4).",1,> 1B,2020
 hagar_uk,9.85.1,The recipient country code is invalid.,1,<=1M,
 hagar_uk,9.86.1,The recipient region code is invalid.,1,<=1M,
 hagar_uk,3.6.2,"If the activity has recipient-country or recipient-region information, none of the transactions should have a recipient-country or recipient-region.",1,<=1M,
@@ -1640,12 +1640,12 @@ icco-cooperation,12.1.1,The country/region percentage value must be between 0.0 
 icco-cooperation,1.1.21,The activity identifier should be your IATI Organisation Identifier followed by a unique string for the activity separated by a hyphen e.g. COH-1234-activity1,6,> 1M & <= 10M,2018
 icco-cooperation,1.1.3,The activity identifier must be different to the organisation identifier of the reporting organisation.,1,> 1M & <= 10M,2018
 icdi,7.5.3,Budget Period must not be longer than one year.,6,> 1M & <= 10M,2018
-icf,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",7,<=1M,2020
-icf,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,3,<=1M,2020
-icf,1.4.1,The identifier should not start or end with spaces or newlines.,3,<=1M,2020
-icf,1.15.1,The identifier should not start or end with spaces or newlines.,1,<=1M,2020
-icf,6.14.1,"When using a policy marker for vocabulary 1, it must include a significance.",1,<=1M,2020
-icf,1.14.8,The reporting-org identifier does not start with a known prefix.,6,<=1M,2020
+icf,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",7,> 1M & <= 10M,2018
+icf,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,3,> 1M & <= 10M,2018
+icf,1.4.1,The identifier should not start or end with spaces or newlines.,3,> 1M & <= 10M,2018
+icf,1.15.1,The identifier should not start or end with spaces or newlines.,1,> 1M & <= 10M,2018
+icf,6.14.1,"When using a policy marker for vocabulary 1, it must include a significance.",1,> 1M & <= 10M,2018
+icf,1.14.8,The reporting-org identifier does not start with a known prefix.,6,> 1M & <= 10M,2018
 icnl_org,7.5.3,Budget Period must not be longer than one year.,5,> 1M & <= 10M,2020
 icnl_org,11.1.5,The actual end date of the activity must not be in the future.,5,> 1M & <= 10M,2020
 icraf_,7.5.3,Budget Period must not be longer than one year.,1,> 1M & <= 10M,2018
@@ -1703,10 +1703,10 @@ idrccrdi,11.1.3,The actual start date must be before the actual end date.,32,> 1
 idrccrdi,9.42.1,The organisation type is invalid.,2,> 100M & <= 1B,2019
 idrccrdi,9.51.1,The recipient region code is invalid.,3900,> 100M & <= 1B,2019
 idrccrdi,9.10.1,The collaboration type is invalid.,9,> 100M & <= 1B,2019
-idydc,1.4.1,The identifier should not start or end with spaces or newlines.,1,<=1M,
-idydc,1.15.1,The identifier should not start or end with spaces or newlines.,1,<=1M,
-idydc,3.4.1,Percentages are missing for one or more recipient countries or regions.,2,<=1M,
-idydc,3.4.2,"Percentages for recipient countries or regions, must add up to 100%.",2,<=1M,
+idydc,1.4.1,The identifier should not start or end with spaces or newlines.,1,> 1B,2019
+idydc,1.15.1,The identifier should not start or end with spaces or newlines.,1,> 1B,2019
+idydc,3.4.1,Percentages are missing for one or more recipient countries or regions.,2,> 1B,2019
+idydc,3.4.2,"Percentages for recipient countries or regions, must add up to 100%.",2,> 1B,2019
 ieu,6.9.1,The organisation must have an identifier or a narrative.,1,<=1M,2018
 ieu,3.7.1,The activity should have recipient-country or recipient-region information for either the activity or for all transactions.,1,<=1M,2018
 ieu,8.10.2,The @value should be a valid number for all non-qualitative measures.,2,<=1M,2018
@@ -2005,8 +2005,8 @@ kpomasse,7.5.3,Budget Period must not be longer than one year.,1,<=1M,
 kpomasse,8.10.2,The @value should be a valid number for all non-qualitative measures.,1,<=1M,
 kpomasse,8.8.2,The @value should be a valid number for all non-qualitative measures.,1,<=1M,
 kpomasse,8.9.2,The @value should be a valid number for all non-qualitative measures.,1,<=1M,
-ksrelief291,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",195,<=1M,
-ksrelief291,1.14.8,The reporting-org identifier does not start with a known prefix.,820,<=1M,
+ksrelief291,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",195,> 1B,2018
+ksrelief291,1.14.8,The reporting-org identifier does not start with a known prefix.,820,> 1B,2018
 laf,6.9.1,The organisation must have an identifier or a narrative.,1,> 1B,2018
 laf,8.10.2,The @value should be a valid number for all non-qualitative measures.,1,> 1B,2018
 laf,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",2,> 1B,2018
@@ -2203,9 +2203,9 @@ mondefemmes,8.9.3,The @value should be omitted for qualitative measures.,3,<=1M,
 mondefemmes,8.10.3,The @value should be omitted for qualitative measures.,3,<=1M,2019
 mondefemmes,6.14.1,"When using a policy marker for vocabulary 1, it must include a significance.",3,<=1M,2019
 mondefemmes,3.1.4,"For a single recipient country, the percentage must either be omitted, or set to 100.",2,<=1M,2019
-mondiaalfnv,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,15,<=1M,
-mondiaalfnv,6.14.1,"When using a policy marker for vocabulary 1, it must include a significance.",7,<=1M,
-mondiaalfnv,3.4.1,Percentages are missing for one or more recipient countries or regions.,1,<=1M,
+mondiaalfnv,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,15,> 1M & <= 10M,2018
+mondiaalfnv,6.14.1,"When using a policy marker for vocabulary 1, it must include a significance.",7,> 1M & <= 10M,2018
+mondiaalfnv,3.4.1,Percentages are missing for one or more recipient countries or regions.,1,> 1M & <= 10M,2018
 montrose_llp,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,1,<=1M,2019
 motivation,6.9.1,The organisation must have an identifier or a narrative.,1,<=1M,2019
 motivation,7.5.3,Budget Period must not be longer than one year.,1,<=1M,2019
@@ -2282,7 +2282,7 @@ nimd-hq,9.24.1,The default flow type is invalid.,1,> 1M & <= 10M,2019
 nimd-hq,3.1.2,"Percentages for recipient countries, must add up to 100%.",4,> 1M & <= 10M,2019
 nimd-hq,9.25.1,The default tied aid status code is invalid.,1,> 1M & <= 10M,2019
 nimd-hq,9.60.1,The indicator measure is invalid.,1,> 1M & <= 10M,2019
-niras,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,1,<=1M,
+niras,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,1,> 1M & <= 10M,2019
 nl-kvk-41207989,6.9.1,The organisation must have an identifier or a narrative.,2,> 10M & <= 100M,2019
 nl-kvk-41207989,7.5.3,Budget Period must not be longer than one year.,183,> 10M & <= 100M,2019
 nl-kvk-41207989,2.1.4,"For a single sector, the percentage must either be omitted, or set to 100.",1,> 10M & <= 100M,2019
@@ -2360,27 +2360,27 @@ nwp,8.10.1,"The actual must have a value when indicator measure is unit (1), per
 nwp,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",1,> 1M & <= 10M,2020
 oau,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",27,> 10M & <= 100M,2020
 oau,1.3.1,The identifier should not start or end with spaces or newlines.,1,> 10M & <= 100M,2020
-odakorea,11.1.5,The actual end date of the activity must not be in the future.,29,> 1B,2020
-odakorea,2.1.2,"Percentages for sectors, within a vocabulary (e.g. 1 - OECD DAC), must add up to 100%.",8,> 1B,2020
-odakorea,2.1.4,"For a single sector, the percentage must either be omitted, or set to 100.",18,> 1B,2020
-odakorea,3.7.1,The activity should have recipient-country or recipient-region information for either the activity or for all transactions.,16,> 1B,2020
-odakorea,9.76.1,The OECD DAC sector is invalid.,135,> 1B,2020
-odakorea,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,6266,> 1B,2020
-odakorea,4.4.1,The description has no narrative content.,2161,> 1B,2020
-odakorea,6.2.2,"Each activity must have a specified Sector Classification, at either activity level, or for ALL transactions.",115,> 1B,2020
-odakorea,9.48.1,The policy marker significance is invalid.,293,> 1B,2020
-odakorea,9.50.1,The recipient country code is invalid.,409,> 1B,2020
-odakorea,1.14.8,The reporting-org identifier must start with an approved agency code.,6240,> 1B,2020
-odakorea,11.1.3,The actual start date must be before the actual end date.,1,> 1B,2020
-odakorea,11.1.4,The actual start date of the activity must not be in the future.,5,> 1B,2020
-odakorea,11.1.2,The planned start date must be before the planned end date.,5,> 1B,2020
-odakorea,6.6.2,Sectors are present at both the activity AND transaction level. Sectors should only be present at activity OR transaction level.,5077,> 1B,2020
-odakorea,9.90.1,The OECD DAC sector is invalid.,51,> 1B,2020
-odakorea,1.1.2,The activity identifier must not occur multiple times in the dataset.,439,> 1B,2020
-odakorea,9.85.1,The recipient country code is invalid.,259,> 1B,2020
-odakorea,3.6.2,"If the activity has recipient-country or recipient-region information, none of the transactions should have a recipient-country or recipient-region.",5105,> 1B,2020
-odakorea,9.25.1,The default tied aid status code is invalid.,946,> 1B,2020
-odakorea,9.92.1,The tied status code is invalid.,902,> 1B,2020
+odakorea,11.1.5,The actual end date of the activity must not be in the future.,29,> 1B,2019
+odakorea,2.1.2,"Percentages for sectors, within a vocabulary (e.g. 1 - OECD DAC), must add up to 100%.",8,> 1B,2019
+odakorea,2.1.4,"For a single sector, the percentage must either be omitted, or set to 100.",18,> 1B,2019
+odakorea,3.7.1,The activity should have recipient-country or recipient-region information for either the activity or for all transactions.,16,> 1B,2019
+odakorea,9.76.1,The OECD DAC sector is invalid.,135,> 1B,2019
+odakorea,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,6266,> 1B,2019
+odakorea,4.4.1,The description has no narrative content.,2161,> 1B,2019
+odakorea,6.2.2,"Each activity must have a specified Sector Classification, at either activity level, or for ALL transactions.",115,> 1B,2019
+odakorea,9.48.1,The policy marker significance is invalid.,293,> 1B,2019
+odakorea,9.50.1,The recipient country code is invalid.,409,> 1B,2019
+odakorea,1.14.8,The reporting-org identifier must start with an approved agency code.,6240,> 1B,2019
+odakorea,11.1.3,The actual start date must be before the actual end date.,1,> 1B,2019
+odakorea,11.1.4,The actual start date of the activity must not be in the future.,5,> 1B,2019
+odakorea,11.1.2,The planned start date must be before the planned end date.,5,> 1B,2019
+odakorea,6.6.2,Sectors are present at both the activity AND transaction level. Sectors should only be present at activity OR transaction level.,5077,> 1B,2019
+odakorea,9.90.1,The OECD DAC sector is invalid.,51,> 1B,2019
+odakorea,1.1.2,The activity identifier must not occur multiple times in the dataset.,439,> 1B,2019
+odakorea,9.85.1,The recipient country code is invalid.,259,> 1B,2019
+odakorea,3.6.2,"If the activity has recipient-country or recipient-region information, none of the transactions should have a recipient-country or recipient-region.",5105,> 1B,2019
+odakorea,9.25.1,The default tied aid status code is invalid.,946,> 1B,2019
+odakorea,9.92.1,The tied status code is invalid.,902,> 1B,2019
 odi,8.6.3,The start of the period must be before the end of the period.,1,> 10M & <= 100M,2018
 odi,1.8.13,"The identifier must not contain any of the symbols /, &, | or ?.",1,> 10M & <= 100M,2018
 odi,1.10.13,"The identifier must not contain any of the symbols /, &, | or ?.",1,> 10M & <= 100M,2018
@@ -2524,7 +2524,7 @@ pcf,8.10.2,The @value should be a valid number for all non-qualitative measures.
 pcf,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,181,<=1M,
 pcf,8.9.2,The @value should be a valid number for all non-qualitative measures.,5,<=1M,
 pcf,11.1.2,The planned start date must be before the planned end date.,4,<=1M,
-peacedirect,6.9.1,The provider and receiver organisation must have an organisation identifier or a narrative.,1,<=1M,
+peacedirect,6.9.1,The provider and receiver organisation must have an organisation identifier or a narrative.,1,<=1M,2020
 peas,6.9.1,The organisation must have an identifier or a narrative.,1,> 1M & <= 10M,2018
 peas,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",1,> 1M & <= 10M,2018
 peas,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,1,> 1M & <= 10M,2018
@@ -2542,8 +2542,8 @@ peas,6.1.5,The document format must be present.,1,> 1M & <= 10M,2018
 pfg,3.7.1,The activity should have recipient-country or recipient-region information for either the activity or for all transactions.,1,<=1M,
 pfg,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",1,<=1M,
 pfg,1.3.1,The identifier should not start or end with spaces or newlines.,1,<=1M,
-pgi_kenya,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,1,<=1M,
-pgi_kenya,1.15.13,"The identifier must not contain any of the symbols /, &, | or ?.",1,<=1M,
+pgi_kenya,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,1,<=1M,2019
+pgi_kenya,1.15.13,"The identifier must not contain any of the symbols /, &, | or ?.",1,<=1M,2019
 phase_worldwide,2.1.1,"When multiple sectors, within a vocabulary (e.g. 1 - OECD DAC) are declared, each must have a percentage.",1,<=1M,2020
 phase_worldwide,1.10.1,The identifier should not start or end with spaces or newlines.,1,<=1M,2020
 phase_worldwide,1.15.1,The identifier should not start or end with spaces or newlines.,2,<=1M,2020
@@ -2659,16 +2659,16 @@ prosperityfund,7.5.3,Budget Period must not be longer than one year.,25,> 10M & 
 prosperityfund,4.1.1,"The activity should specify a default language, or the language must be specified for each narrative element.",27,> 10M & <= 100M,2018
 protos,11.2.1,The transaction date must not be in the future.,8,> 1B,2018
 protos,11.2.2,The transaction value date must not be in the future.,9,> 1B,2018
-psi,6.9.1,The organisation must have an identifier or a narrative.,4,<=1M,
-psi,3.7.1,The activity should have recipient-country or recipient-region information for either the activity or for all transactions.,1,<=1M,
-psi,8.10.2,The @value should be a valid number for all non-qualitative measures.,7,<=1M,
-psi,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",1,<=1M,
-psi,8.8.2,The @value should be a valid number for all non-qualitative measures.,2,<=1M,
-psi,6.14.1,"When using a policy marker for vocabulary 1, it must include a significance.",2,<=1M,
-psi,6.13.1,"When using a reporting organisation policy marker, it must include a narrative.",2,<=1M,
-psi,8.9.2,The @value should be a valid number for all non-qualitative measures.,5,<=1M,
-psi,8.8.1,"The baseline must have a value when indicator measure is unit (1), percentage (2), nominal (3) or ordinal (4).",1,<=1M,
-psi,3.4.1,"When multiple recipient countries or regions are declared, each must have a percentage.",1,<=1M,
+psi,6.9.1,The organisation must have an identifier or a narrative.,4,> 1M & <= 10M,2018
+psi,3.7.1,The activity should have recipient-country or recipient-region information for either the activity or for all transactions.,1,> 1M & <= 10M,2018
+psi,8.10.2,The @value should be a valid number for all non-qualitative measures.,7,> 1M & <= 10M,2018
+psi,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",1,> 1M & <= 10M,2018
+psi,8.8.2,The @value should be a valid number for all non-qualitative measures.,2,> 1M & <= 10M,2018
+psi,6.14.1,"When using a policy marker for vocabulary 1, it must include a significance.",2,> 1M & <= 10M,2018
+psi,6.13.1,"When using a reporting organisation policy marker, it must include a narrative.",2,> 1M & <= 10M,2018
+psi,8.9.2,The @value should be a valid number for all non-qualitative measures.,5,> 1M & <= 10M,2018
+psi,8.8.1,"The baseline must have a value when indicator measure is unit (1), percentage (2), nominal (3) or ordinal (4).",1,> 1M & <= 10M,2018
+psi,3.4.1,"When multiple recipient countries or regions are declared, each must have a percentage.",1,> 1M & <= 10M,2018
 pskenya_19,11.1.5,The actual end date of the activity must not be in the future.,14,> 10M & <= 100M,2019
 pstc_1102,8.10.2,The @value should be a valid number for all non-qualitative measures.,1,<=1M,
 pstc_1102,8.9.2,The @value should be a valid number for all non-qualitative measures.,1,<=1M,
@@ -2819,8 +2819,8 @@ rvo,9.25.1,The default tied aid status code is invalid.,111,> 1M & <= 10M,2019
 rvo,9.60.1,The indicator measure is invalid.,3,> 1M & <= 10M,2019
 rvo,9.10.1,The collaboration type is invalid.,1031,> 1M & <= 10M,2019
 sac_kenya,107.2.1,The transaction should also contain a code from the DAC Type of Aid vocabulary.,1,<=1M,2019
-sacethiopia,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,2,<=1M,
-sacethiopia,107.2.1,The transaction should also contain a code from the DAC Type of Aid vocabulary.,1,<=1M,
+sacethiopia,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,2,<=1M,2018
+sacethiopia,107.2.1,The transaction should also contain a code from the DAC Type of Aid vocabulary.,1,<=1M,2018
 sacu,9.76.1,The OECD DAC sector is invalid.,1,<=1M,
 sacu,1.15.13,"The identifier must not contain any of the symbols /, &, | or ?.",1,<=1M,
 sacu,1.14.8,The reporting-org identifier does not start with a known prefix.,1,<=1M,
@@ -2853,8 +2853,8 @@ sciaf,1.4.1,The identifier should not start or end with spaces or newlines.,1,> 
 sciaf,1.15.13,"The identifier must not contain any of the symbols /, &, | or ?.",1,> 1M & <= 10M,2018
 scibelgium,6.14.1,"When using a policy marker for vocabulary 1, it must include a significance.",1,<=1M,2019
 scibelgium,11.2.1,The transaction date must not be in the future.,1,<=1M,2019
-scm,6.9.1,The organisation must have an identifier or a narrative.,1,<=1M,
-scm,6.13.1,"When using a reporting organisation policy marker, it must include a narrative.",2,<=1M,
+scm,6.9.1,The organisation must have an identifier or a narrative.,1,<=1M,2019
+scm,6.13.1,"When using a reporting organisation policy marker, it must include a narrative.",2,<=1M,2019
 scnl,6.9.1,The organisation must have an identifier or a narrative.,3,> 10M & <= 100M,2018
 scnl,7.5.3,Budget Period must not be longer than one year.,2,> 10M & <= 100M,2018
 scnl,8.10.1,"The actual must have a value when indicator measure is unit (1), percentage (2), nominal (3) or ordinal (4).",4,> 10M & <= 100M,2018
@@ -3045,11 +3045,11 @@ solidaridad-waf,8.10.3,The @value should be omitted for qualitative measures.,2,
 solidarites-international,3.4.1,Percentages are missing for one or more recipient countries or regions.,1,<=1M,
 solsoc,8.10.2,The @value should be a valid number for all non-qualitative measures.,3,> 1M & <= 10M,2018
 solsoc,8.9.2,The @value should be a valid number for all non-qualitative measures.,1,> 1M & <= 10M,2018
-soneb-benin,7.5.3,Budget Period must not be longer than one year.,2,<=1M,
-soneb-benin,8.10.2,The @value should be a valid number for all non-qualitative measures.,1,<=1M,
-soneb-benin,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,1,<=1M,
-soneb-benin,8.8.2,The @value should be a valid number for all non-qualitative measures.,1,<=1M,
-soneb-benin,8.9.2,The @value should be a valid number for all non-qualitative measures.,1,<=1M,
+soneb-benin,7.5.3,Budget Period must not be longer than one year.,2,> 1B,2019
+soneb-benin,8.10.2,The @value should be a valid number for all non-qualitative measures.,1,> 1B,2019
+soneb-benin,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,1,> 1B,2019
+soneb-benin,8.8.2,The @value should be a valid number for all non-qualitative measures.,1,> 1B,2019
+soneb-benin,8.9.2,The @value should be a valid number for all non-qualitative measures.,1,> 1B,2019
 sosfaim,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",8,> 1M & <= 10M,2019
 sosnl,6.9.1,The organisation must have an identifier or a narrative.,1,> 1M & <= 10M,2019
 sosnl,2.1.4,"When a single sector is declared, the percentage must either be omitted, or set to 100.",2,> 1M & <= 10M,2019
@@ -3272,12 +3272,12 @@ trig,6.14.1,"When using a policy marker for vocabulary 1, it must include a sign
 trig,3.4.1,Percentages are missing for one or more recipient countries or regions.,1,<=1M,
 troc,7.5.3,Budget Period must not be longer than one year.,3,<=1M,2018
 trocaire,7.5.3,Budget Period must not be longer than one year.,7,> 1M & <= 10M,2019
-twaweza,7.5.3,Budget Period must not be longer than one year.,4,<=1M,
-twaweza,9.76.1,The OECD DAC sector is invalid.,7,<=1M,
-twaweza,7.5.2,Budget Value must include a Value Date.,7,<=1M,
-twaweza,4.1.1,"The activity should specify a default language, or the language must be specified for each narrative element.",7,<=1M,
-twaweza,3.1.1,Percentages are missing for one or more recipient countries.,7,<=1M,
-twaweza,3.6.2,"If the activity has recipient-country or recipient-region information, none of the transactions should have a recipient-country or recipient-region.",6,<=1M,
+twaweza,7.5.3,Budget Period must not be longer than one year.,4,> 1M & <= 10M,2018
+twaweza,9.76.1,The OECD DAC sector is invalid.,7,> 1M & <= 10M,2018
+twaweza,7.5.2,Budget Value must include a Value Date.,7,> 1M & <= 10M,2018
+twaweza,4.1.1,"The activity should specify a default language, or the language must be specified for each narrative element.",7,> 1M & <= 10M,2018
+twaweza,3.1.1,Percentages are missing for one or more recipient countries.,7,> 1M & <= 10M,2018
+twaweza,3.6.2,"If the activity has recipient-country or recipient-region information, none of the transactions should have a recipient-country or recipient-region.",6,> 1M & <= 10M,2018
 twin-iati,7.5.3,Budget Period must not be longer than one year.,3,<=1M,
 twin-iati,2.1.2,"Percentages for sectors, within a vocabulary (e.g. 1 - OECD DAC), must add up to 100%.",1,<=1M,
 twin-iati,7.5.2,Budget Value must include a Value Date.,1,<=1M,
@@ -3620,8 +3620,8 @@ weeffect,6.10.1,The participating organisation must have an identifier or a narr
 weeffect,6.2.2,"Each activity must have a specified Sector Classification, at either activity level, or for ALL transactions.",2,> 100M & <= 1B,2018
 weeffect,3.6.2,"If the activity has recipient-country or recipient-region information, none of the transactions should have a recipient-country or recipient-region.",196,> 100M & <= 1B,2018
 weeffect,6.2.1,Activity Status must be present.,2,> 100M & <= 1B,2018
-wei,1.15.1,The identifier should not start or end with spaces or newlines.,2,<=1M,
-wei,1.15.13,"The identifier must not contain any of the symbols /, &, | or ?.",2,<=1M,
+wei,1.15.1,The identifier should not start or end with spaces or newlines.,2,> 10M & <= 100M,2020
+wei,1.15.13,"The identifier must not contain any of the symbols /, &, | or ?.",2,> 10M & <= 100M,2020
 welbodipartnership,6.9.1,The organisation must have an identifier or a narrative.,1,<=1M,2018
 wellfound,2.2.1,"When using a reporting organisation sector code, it must include a narrative.",1,<=1M,2019
 wellfound,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",3,<=1M,2019
@@ -3694,8 +3694,8 @@ worldbank,11.1.2,The planned start date of the activity must be before the plann
 worldbank,8.8.3,The @value should be omitted for qualitative measures.,2455,> 1B,2020
 worldbank,12.3.1,The sector percentage value must be between 0.0 and 100.0 (inclusive).,37,> 1B,2020
 worldbank,9.55.1,The result type is invalid.,58,> 1B,2020
-worldeconomicforum,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",1,<=1M,
-worldeconomicforum,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,1,<=1M,
+worldeconomicforum,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",1,> 1M & <= 10M,2018
+worldeconomicforum,1.1.1,The activity identifier should begin with the organisation identifier of the reporting organisation (or a previous version included in the other-identifier element).,1,> 1M & <= 10M,2018
 worldveg,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",14,> 1M & <= 10M,2018
 worldwaternet,6.9.1,The organisation must have an identifier or a narrative.,2,> 1M & <= 10M,2018
 wri,8.9.3,The target value should be omitted for qualitative measures.,1,> 1M & <= 10M,2018
@@ -3810,13 +3810,13 @@ zoa,8.8.1,"The baseline must have a value when the indicator measure is non-qual
 zoa,1.3.1,The identifier should not start or end with spaces or newlines.,2,> 10M & <= 100M,2019
 zoa,8.9.1,"The target must have a value when indicator measure is non-qualitative (e.g. 1 = unit, 2 = percentage, 3 = nominal, 4 = ordinal).",4,> 10M & <= 100M,2019
 zoa_uk,6.9.1,The organisation must have an identifier or a narrative.,1,<=1M,2018
-zsl,7.5.3,Budget Period must not be longer than one year.,6,<=1M,
-zsl,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",17,<=1M,
-zsl,1.4.1,The identifier should not start or end with spaces or newlines.,1,<=1M,
-zsl,1.15.1,The identifier should not start or end with spaces or newlines.,1,<=1M,
-zsl,4.4.1,The description has no narrative content.,3,<=1M,
-zsl,6.14.1,"When using a policy marker for vocabulary 1, it must include a significance.",17,<=1M,
-zsl,3.1.1,Percentages are missing for one or more recipient countries.,15,<=1M,
-zsl,8.6.3,The start of the period must be before the end of the period.,1,<=1M,
-zsl,1.8.1,The identifier should not start or end with spaces or newlines.,1,<=1M,
-zsl,9.95.1,The language code is invalid.,1,<=1M,
+zsl,7.5.3,Budget Period must not be longer than one year.,6,> 1M & <= 10M,2019
+zsl,102.1.1,"When reporting sectors, it is recommended that if a publisher uses a non-DAC classification system or systems, these should be used in addition to DAC 5-digit codes.",17,> 1M & <= 10M,2019
+zsl,1.4.1,The identifier should not start or end with spaces or newlines.,1,> 1M & <= 10M,2019
+zsl,1.15.1,The identifier should not start or end with spaces or newlines.,1,> 1M & <= 10M,2019
+zsl,4.4.1,The description has no narrative content.,3,> 1M & <= 10M,2019
+zsl,6.14.1,"When using a policy marker for vocabulary 1, it must include a significance.",17,> 1M & <= 10M,2019
+zsl,3.1.1,Percentages are missing for one or more recipient countries.,15,> 1M & <= 10M,2019
+zsl,8.6.3,The start of the period must be before the end of the period.,1,> 1M & <= 10M,2019
+zsl,1.8.1,The identifier should not start or end with spaces or newlines.,1,> 1M & <= 10M,2019
+zsl,9.95.1,The language code is invalid.,1,> 1M & <= 10M,2019

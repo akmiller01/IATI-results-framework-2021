@@ -61,7 +61,8 @@ org_categories = subset(org_categories,year %in% c(2018,2019,2020))
 org_cat_max = data.table(org_categories)[,.(category=category[which.max(.SD$value_usd)],year=year[which.max(.SD$value_usd)]),by=.(Reporting.Org.on.Registry)]
 org_cat_max = merge(org_cat_max, org_ids, by="Reporting.Org.on.Registry",all=T)
 org_cat_max$category[which(is.na(org_cat_max$category))] = "<=1M"
-
+org_cat_max$Reporting.Org.on.Registry = NULL
+setnames(org_cat_max,"year","category_year")
 
 # test_url = "https://iativalidator.iatistandard.org/api/v1/stats?date=2021-01-11"
 test_url = "http://stage.iativalidator.iatistandard.org/api/v1/stats?date=2020-12-31"
@@ -98,8 +99,10 @@ for(test_publisher in publishers){
 close(pb)
 all.messages = rbindlist(meta.mess.list)
 all.messages = all.messages[order(all.messages$publisher),]
+all.messages = merge(all.messages, org_cat_max, by="publisher", all.x=T)
 all.summaries = rbindlist(meta.sum.list)
 setnames(all.summaries,"count","value")
 all.summaries.wide = dcast(all.summaries,publisher~name)
+all.summaries.wide = merge(all.summaries.wide, org_cat_max, by="publisher", all.x=T)
 fwrite(all.messages,"output/all_messages.csv")
 fwrite(all.summaries.wide,"output/all_summaries.csv")
