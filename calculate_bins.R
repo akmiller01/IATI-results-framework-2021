@@ -150,7 +150,7 @@ publisher_tab$category[which(publisher_tab$value_usd>10000000 & publisher_tab$va
 publisher_tab$category[which(publisher_tab$value_usd>100000000 & publisher_tab$value_usd<=1000000000)] = "> 100M & <= 1B"
 publisher_tab$category[which(publisher_tab$value_usd>1000000000)] = "> 1B"
 
-fwrite(publisher_tab,"IATI_publishers_by_spend_10012021.csv")
+fwrite(publisher_tab,"IATI_publishers_by_spend.csv")
 
 publisher_tab$category = factor(
   publisher_tab$category,
