@@ -14,7 +14,7 @@ org_ids = unique(org_ids[,c("IATI Organisation Identifier","publisher")])
 
 # Load total spend, recalculate categories, merge publishers
 setnames(org_ids,"IATI Organisation Identifier","reporting_org_ref")
-org_categories = fread("output/IATI_publishers_by_spend_10012021.csv")
+org_categories = fread("output/IATI_publishers_by_spend.csv")
 org_categories = merge(org_categories, org_ids, by="reporting_org_ref", all=T)
 org_categories$category[which(is.na(org_categories$category))] = "<=1M"
 
