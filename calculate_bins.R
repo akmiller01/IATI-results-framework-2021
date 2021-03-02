@@ -28,7 +28,7 @@ setwd("~/git/IATI-results-framework-2021/output")
 # 
 # ggplot(dat2019,aes(x=bin)) + geom_bar()
 # 
-xml_files = list.files(path="~/git/IATI-Better-Refresher/data",full.names=T)
+xml_files = list.files(path="~/git/IATI-Registry-Refresher/data",full.names=T,recursive=T)
 dat_list = list()
 dat_index = 1
 pb = txtProgressBar(max=length(xml_files),style=3)
