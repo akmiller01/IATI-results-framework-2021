@@ -1,5 +1,5 @@
 publisher,critical,danger,info,success,warning,category,category_year
-_admin,0,3,0,0,2,<=1M,
+_admin,0,3,0,0,2,No spend data for 2018-2020,
 _path_,0,1,0,0,0,> 1M & <= 10M,2019
 1-uz,0,0,0,0,1,<=1M,2018
 111111_publisher,0,3,0,0,0,> 1M & <= 10M,2018
@@ -7,257 +7,262 @@ _path_,0,1,0,0,0,> 1M & <= 10M,2019
 3ie,0,12,0,0,0,> 1M & <= 10M,2018
 a-t,0,1,0,0,1,> 1M & <= 10M,2018
 aab,0,0,0,0,0,> 1M & <= 10M,2019
-aadk,0,0,0,0,4,> 1M & <= 10M,2018
+aadk,0,0,0,0,2,> 1M & <= 10M,2018
 aag,0,0,0,0,0,> 1M & <= 10M,2018
-aahusa,0,0,0,0,0,<=1M,
+aahusa,0,0,0,0,0,No spend data for 2018-2020,
 aai,0,0,0,0,0,<=1M,2018
 aaik,0,0,0,0,2,> 1M & <= 10M,2020
-aak,0,2,0,0,0,<=1M,
+aak,0,2,0,0,0,No spend data for 2018-2020,
 aanl,0,0,0,0,2,> 1M & <= 10M,2018
 aar,0,1,0,0,0,> 1M & <= 10M,2019
-aasaman,0,1,0,0,0,<=1M,
-aauk,0,6,0,0,17,> 10M & <= 100M,2019
-abaseen,0,0,0,0,0,<=1M,
+aasaman,0,1,0,0,0,No spend data for 2018-2020,
+aauk,0,3,0,0,7,> 10M & <= 100M,2019
+abaseen,0,0,0,0,0,No spend data for 2018-2020,
 ablechildafrica,0,2,0,0,0,<=1M,2020
 abt,1,5,0,0,0,> 1M & <= 10M,2018
-abtbritain,0,0,0,0,4,<=1M,
-acaa,0,3,0,0,1,<=1M,
-acatba,0,3,0,0,1,<=1M,
+abtbritain,0,0,0,0,4,No spend data for 2018-2020,
+acaa,0,3,0,0,1,No spend data for 2018-2020,
+acatba,0,3,0,0,1,No spend data for 2018-2020,
 acceleratornepal,0,1,0,0,0,<=1M,2018
-accountablenow,0,0,0,0,1,<=1M,
-acet,0,4,0,0,2,> 1M & <= 10M,2019
+accountablenow,0,0,0,0,1,No spend data for 2018-2020,
+acet,0,2,0,0,1,> 1M & <= 10M,2019
 acf,0,9,0,0,3,> 10M & <= 100M,2019
-acf-fr,0,0,0,0,0,<=1M,
-acfshr,0,1,0,0,1,<=1M,
-acfspain,0,6,0,0,5,<=1M,
-achest,0,3,0,0,0,<=1M,2019
-acodev,0,2,0,0,2,> 1M & <= 10M,2018
-acord,0,6,0,0,0,<=1M,
-across,0,3,0,0,1,<=1M,
-act4africa,0,0,0,0,0,<=1M,
+acf-fr,0,0,0,0,0,No spend data for 2018-2020,
+acfshr,0,1,0,0,1,No spend data for 2018-2020,
+acfspain,0,6,0,0,5,No spend data for 2018-2020,
+achest,0,2,0,0,0,<=1M,2019
+acodev,0,0,0,0,2,> 1M & <= 10M,2018
+acord,0,6,0,0,0,No spend data for 2018-2020,
+across,0,3,0,0,1,No spend data for 2018-2020,
+act4africa,0,0,0,0,0,No spend data for 2018-2020,
 actec,0,3,0,0,2,> 1M & <= 10M,2018
-acted,0,2,0,0,1,<=1M,
+acted,0,2,0,0,1,No spend data for 2018-2020,
 acu,0,1,0,0,0,<=1M,2018
 acumen,0,2,0,0,1,> 1M & <= 10M,2019
-acwfs_vu,0,0,0,0,1,<=1M,
+acwfs_vu,0,0,0,0,1,No spend data for 2018-2020,
 ada,0,0,0,0,1,<=1M,2018
 addinternational,0,35,0,0,3,> 1M & <= 10M,2018
-adja-ouere,0,1,0,0,3,<=1M,
-adjarra,4,5,0,0,4,<=1M,
-adjohoun,0,1,0,0,2,<=1M,
-adpp,0,1,0,0,1,<=1M,
-adra_nepal,0,4,0,0,1,<=1M,
-adra-dk,0,1,0,0,6,<=1M,2018
-adrasom,0,2,0,0,0,<=1M,
+adja-ouere,0,1,0,0,3,No spend data for 2018-2020,
+adjarra,2,3,0,0,4,No spend data for 2018-2020,
+adjohoun,0,1,0,0,2,No spend data for 2018-2020,
+adpp,0,1,0,0,1,No spend data for 2018-2020,
+adra_nepal,0,4,0,0,1,No spend data for 2018-2020,
+adra-dk,0,2,0,0,3,<=1M,2018
+adrasom,0,2,0,0,0,No spend data for 2018-2020,
 adrauk,1,7,0,0,1,<=1M,2018
-ads-nyanza,0,2,0,0,0,<=1M,
-adsb,0,2,0,0,3,<=1M,
-aecid,0,1006,0,0,24,> 100M & <= 1B,2019
+ads-nyanza,0,2,0,0,0,No spend data for 2018-2020,
+adsb,0,2,0,0,3,No spend data for 2018-2020,
+aecid,0,526,0,0,12,> 100M & <= 1B,2019
 aecom,0,0,0,0,0,> 1M & <= 10M,2018
 aeras,0,0,0,0,1,<=1M,2018
 aet,1,7,0,0,0,<=1M,2018
-af,0,1,0,0,0,<=1M,
-afd,9,43,0,0,0,> 1B,2020
-afdb,0,436,0,0,0,> 1B,2020
-afelt,0,0,0,0,0,<=1M,
-afemena,0,4,0,0,3,<=1M,
+af,0,1,0,0,0,No spend data for 2018-2020,
+afd,8,25,0,0,0,> 1B,2020
+afdb,0,217,0,0,0,> 1B,2020
+afelt,0,0,0,0,0,No spend data for 2018-2020,
+afemena,0,4,0,0,3,No spend data for 2018-2020,
 afewinternational,0,2,0,0,0,> 1M & <= 10M,2020
 afghanaid,1,4,0,0,1,> 1M & <= 10M,2018
-afidep,0,0,0,0,0,<=1M,
-aflatoun,3,0,0,0,0,<=1M,
+afidep,0,0,0,0,0,No spend data for 2018-2020,
+aflatoun,1,0,0,0,0,No spend data for 2018-2020,
 africalia,0,1,0,0,3,> 1M & <= 10M,2019
-african_parks,0,1,0,0,0,<=1M,
-africanrevival,0,0,0,0,1,<=1M,
+african_parks,0,1,0,0,0,No spend data for 2018-2020,
+africanrevival,0,0,0,0,1,No spend data for 2018-2020,
 afrikagrupperna,0,5,0,0,0,> 1M & <= 10M,2018
 afrikids,0,0,0,0,2,<=1M,2018
-afsc,0,0,0,0,0,<=1M,
+afsc,0,0,0,0,0,No spend data for 2018-2020,
 agdevco,0,1,0,0,1,> 10M & <= 100M,2018
 ageintl,0,2,0,0,1,> 1M & <= 10M,2020
 agencia_do_zambeze,0,0,0,0,1,> 1M & <= 10M,2019
 agra,0,0,0,0,0,> 1M & <= 10M,2020
-agresults,0,1,0,0,0,<=1M,
-agri3_fund,0,1,0,0,0,<=1M,
-agriprofocus,2,10,0,0,4,<=1M,2018
-agriterra,0,15,0,0,13,> 10M & <= 100M,2019
+agresults,0,1,0,0,1,No spend data for 2018-2020,
+agri3_fund,0,1,0,0,0,No spend data for 2018-2020,
+agriprofocus,1,1,0,0,1,<=1M,2018
+agriterra,0,9,0,0,7,> 10M & <= 100M,2019
 ahead,0,0,0,0,1,<=1M,2018
 ai_1064413,1,12,0,0,1,<=1M,2019
 aias,0,0,0,0,0,> 1M & <= 10M,2019
-aics,2,514,0,0,0,> 100M & <= 1B,2018
-aiddata,0,40,0,0,21,<=1M,
-aidenvironment,4,2,0,0,0,<=1M,2019
+aics,1,193,0,0,0,> 100M & <= 1B,2018
+aiddata,0,40,0,0,21,No spend data for 2018-2020,
+aidenvironment,2,2,0,0,0,<=1M,2019
 aidspan,0,0,0,0,0,<=1M,2018
-aipr,0,2,0,0,0,<=1M,
-aiuk,0,2,0,0,0,<=1M,
-ajar,0,2,0,0,8,<=1M,2020
+aipr,0,2,0,0,0,No spend data for 2018-2020,
+aiuk,0,2,0,0,0,No spend data for 2018-2020,
+ajar,0,1,0,0,4,<=1M,2020
 akf_afghanistan,0,0,0,0,1,> 1M & <= 10M,2019
 akfuk73,1,6,0,0,2,> 10M & <= 100M,2018
-akpro-misserete,0,1,0,0,1,<=1M,
+akpro-misserete,0,1,0,0,1,No spend data for 2018-2020,
 aktis,0,15,0,0,2,<=1M,2018
-akvo,0,6,0,0,11,> 1M & <= 10M,2018
-al_majmoua,0,1,0,0,0,<=1M,
+akvo,0,3,0,0,6,> 1M & <= 10M,2018
+al_majmoua,0,1,0,0,0,No spend data for 2018-2020,
 alab,0,1,0,0,1,<=1M,2018
-alcis,1,2,0,0,0,<=1M,
-alcrer-1,0,0,0,0,2,<=1M,
-alfalit,0,1,0,0,0,<=1M,
-allada,0,1,0,0,3,<=1M,
+alcis,1,2,0,0,0,No spend data for 2018-2020,
+alcrer-1,0,0,0,0,2,No spend data for 2018-2020,
+alfalit,0,1,0,0,0,No spend data for 2018-2020,
+allada,0,1,0,0,3,No spend data for 2018-2020,
 alliance_of_religions_and_conservation,0,0,0,0,0,<=1M,2018
-allwecan,3,2,0,0,0,<=1M,
-altai,0,1,0,0,0,<=1M,
+allwecan,1,2,0,0,0,No spend data for 2018-2020,
+altai,0,1,0,0,0,No spend data for 2018-2020,
 amnesty,0,6,0,0,3,<=1M,2018
-amrefeth,0,10,0,0,8,<=1M,
+amrefeth,0,11,0,0,6,No spend data for 2018-2020,
 amrefha,0,3,0,0,0,> 1M & <= 10M,2019
-amrefhq,0,1,0,0,0,<=1M,
-amrefkenya,0,4,0,0,6,> 1M & <= 10M,2020
-amrefmw,0,3,0,0,0,<=1M,2018
-amrefnl,1,7,0,0,6,> 10M & <= 100M,2018
-amreftz,0,0,0,0,1,<=1M,
-amrefug,0,1,0,0,0,<=1M,
+amrefhq,0,1,0,0,0,No spend data for 2018-2020,
+amrefkenya,0,2,0,0,3,> 1M & <= 10M,2020
+amrefmw,0,2,0,0,0,<=1M,2018
+amrefnl,0,7,0,0,6,> 10M & <= 100M,2018
+amreftz,0,0,0,0,1,No spend data for 2018-2020,
+amrefug,0,1,0,0,0,No spend data for 2018-2020,
 amurt_kenya,0,0,0,0,1,<=1M,2018
-anaepmr_benin,1,2,0,0,8,<=1M,
+anaepmr_benin,1,2,0,0,6,No spend data for 2018-2020,
 ancb_benin,0,2,0,0,4,<=1M,2020
-anda,0,1,0,0,0,<=1M,
-apc,0,1,0,0,0,<=1M,
+anda,0,1,0,0,0,No spend data for 2018-2020,
+apc,0,1,0,0,0,No spend data for 2018-2020,
 apefe,0,13,0,0,3,> 10M & <= 100M,2019
-aphrc,0,0,0,0,0,<=1M,
-aplahoue,0,1,0,0,5,<=1M,
+aphrc,0,0,0,0,0,No spend data for 2018-2020,
+aplahoue,0,1,0,0,5,No spend data for 2018-2020,
 appro-af,0,0,0,0,1,> 1M & <= 10M,2018
-appro-eu,0,0,0,0,0,<=1M,
+appro-eu,0,0,0,0,0,No spend data for 2018-2020,
 apt,1,10,0,0,1,<=1M,2020
 aqua4all,0,1,0,0,2,> 10M & <= 100M,2018
 arcfge,0,1,0,0,3,> 1M & <= 10M,2019
 ares,0,2,0,0,1,> 10M & <= 100M,2019
-arfh,0,2,0,0,0,<=1M,
-ark,0,7,0,0,5,<=1M,
-art19,3,11,0,0,7,<=1M,
-asdb,0,161,0,0,107,> 1B,2020
+arfh,0,2,0,0,0,No spend data for 2018-2020,
+arij,0,0,0,0,0,No spend data for 2018-2020,
+ark,0,4,0,0,3,No spend data for 2018-2020,
+art19,2,9,0,0,4,No spend data for 2018-2020,
+asdb,1,83,0,0,107,> 1B,2020
 asf,0,9,0,0,6,> 1M & <= 10M,2018
-ashoka,0,0,0,0,5,<=1M,
+ashoka,0,0,0,0,5,No spend data for 2018-2020,
 asi,0,2,0,0,2,> 10M & <= 100M,2019
 asil,0,1,0,0,2,<=1M,2018
 ask,0,0,0,0,1,<=1M,2018
 atmf,0,2,0,0,0,> 1M & <= 10M,2019
-atnf,0,3,0,0,6,> 1M & <= 10M,2018
-atosuk,2,4,0,0,0,<=1M,
-atsf,0,1,0,0,0,<=1M,
-ausgov,24,280,0,0,0,<=1M,
+atnf,0,1,0,0,2,> 1M & <= 10M,2018
+atosuk,2,4,0,0,0,No spend data for 2018-2020,
+atsf,0,1,0,0,0,No spend data for 2018-2020,
+ausgov,12,223,0,0,0,No spend data for 2018-2020,
 ava_admin,0,0,0,0,1,> 1M & <= 10M,2018
-avrankou,0,1,0,0,3,<=1M,
+avrankou,0,1,0,0,3,No spend data for 2018-2020,
 avsi_uganda,0,0,0,0,0,> 1M & <= 10M,2018
-avt-l,0,1,0,0,1,<=1M,
-awdf,0,6,0,0,10,> 1M & <= 10M,2019
-awepa,0,1,0,0,0,<=1M,
+avt-l,0,1,0,0,1,No spend data for 2018-2020,
+awdf,0,3,0,0,5,> 1M & <= 10M,2019
+awepa,0,1,0,0,0,No spend data for 2018-2020,
 awid,0,0,0,0,0,<=1M,2018
 b_a_t,0,1,0,0,0,<=1M,2018
 baag,0,1,0,0,0,<=1M,2019
 bac,0,0,0,0,1,<=1M,2018
-base_22,0,5,0,0,1,<=1M,
+base_22,0,5,0,0,1,No spend data for 2018-2020,
 basicneeds,0,9,0,0,0,<=1M,2018
-bauk,0,1,0,0,0,<=1M,
+bauk,0,1,0,0,0,No spend data for 2018-2020,
 bawacecy-tz,0,0,0,0,0,<=1M,2019
 bbcmediaaction,0,1,0,0,2,> 1M & <= 10M,2020
 bcm-cf,0,2,0,0,1,<=1M,2018
 bd,0,2,0,0,33,> 10M & <= 100M,2018
 bdo,1,1,0,0,0,<=1M,2018
-be-dgd,12,84,0,0,12,> 1B,2020
+be-dgd,4,27,0,0,4,> 1B,2020
 beesfordevelopment,0,2,0,0,0,<=1M,2020
-beis,2,62,0,0,0,> 100M & <= 1B,2019
-berytech,0,2,0,0,3,<=1M,
-bioclimate,1,5,0,0,1,<=1M,
+beis,2,61,0,0,0,> 100M & <= 1B,2019
+berytech,0,2,0,0,3,No spend data for 2018-2020,
+bioclimate,1,5,0,0,1,No spend data for 2018-2020,
 bismsi,0,2,0,0,0,<=1M,2018
 bit,0,1,0,0,0,<=1M,2020
 bitc,0,0,0,0,0,<=1M,2019
-blueventures,1,5,0,0,0,<=1M,
-bmgf,20,33,0,0,3,> 1B,2019
+blueventures,1,5,0,0,0,No spend data for 2018-2020,
+bmgf,10,7,0,0,2,> 1B,2019
 bmu_iki,0,1,0,0,0,> 100M & <= 1B,2019
-bmz,0,7,0,0,0,> 1B,2020
+bmz,0,5,0,0,0,> 1B,2020
 bnps,0,1,0,0,0,<=1M,2018
 bond,0,2,0,0,0,<=1M,2018
-bopa,0,1,0,0,5,<=1M,
+bopa,0,1,0,0,5,No spend data for 2018-2020,
 bopinc,0,1,0,0,0,<=1M,2020
 bos_plus_tropen,0,4,0,0,0,> 1M & <= 10M,2018
 bothends,0,7,0,0,0,> 10M & <= 100M,2018
-brac_admin2,0,1,0,0,3,<=1M,
+brac_admin2,0,1,0,0,3,No spend data for 2018-2020,
 bracintl,0,4,0,0,0,> 1M & <= 10M,2018
-britishcouncil,0,0,0,0,0,> 10M & <= 100M,2019
-brujula,0,0,0,0,0,<=1M,
+britishcouncil,0,1,0,0,0,> 10M & <= 100M,2019
+brujula,0,0,0,0,0,No spend data for 2018-2020,
 brulocalis,0,2,0,0,1,> 1M & <= 10M,2019
-bsf1,0,2,0,0,0,<=1M,
-bsr_admin,0,3,0,0,0,<=1M,
-bu,0,1,0,0,1,<=1M,
+bsf1,0,2,0,0,0,No spend data for 2018-2020,
+bsr_admin,0,3,0,0,0,No spend data for 2018-2020,
+bu,0,1,0,0,1,No spend data for 2018-2020,
 bu-carbx-admin,0,1,0,0,0,> 1M & <= 10M,2020
 bucksfarm,0,0,0,0,1,<=1M,2018
 buildafrica,1,13,0,0,2,<=1M,2019
 bvf,0,1,0,0,0,<=1M,2020
-bvs-nepal,0,0,0,0,0,<=1M,
+bvs-nepal,0,0,0,0,0,No spend data for 2018-2020,
 bwh,0,1,0,0,0,<=1M,2019
-bylc,0,0,0,0,1,<=1M,
-c40cities,0,0,0,0,0,<=1M,
+bylc,0,0,0,0,1,No spend data for 2018-2020,
+c40cities,0,0,0,0,0,No spend data for 2018-2020,
 cabi,0,0,0,0,0,> 10M & <= 100M,2018
 cadtm,0,0,0,0,1,<=1M,2019
 caeb_mali,0,1,0,0,2,<=1M,2019
 cafod,9,5,0,0,0,> 10M & <= 100M,2019
 caid,0,13,0,0,2,> 10M & <= 100M,2018
-caid_ireland,6,0,0,0,0,<=1M,
-cal,0,8,0,0,12,> 100M & <= 1B,2020
-camfed,1,29,0,0,0,> 10M & <= 100M,2018
+caid_ireland,2,0,0,0,0,No spend data for 2018-2020,
+cal,0,7,0,0,7,> 100M & <= 1B,2020
+camfed,1,16,0,0,0,> 10M & <= 100M,2018
 canadem,0,0,0,0,0,> 1M & <= 10M,2019
-canoncollinstrust,0,1,0,0,0,<=1M,
+canoncollinstrust,0,1,0,0,0,No spend data for 2018-2020,
 carbontrustadvisory,0,1,0,0,0,> 1M & <= 10M,2020
 cardnoem,0,2,0,0,0,> 10M & <= 100M,2018
 carebenintogo,0,2,0,0,2,> 1M & <= 10M,2020
 carenederland,0,6,0,0,4,> 10M & <= 100M,2018
-caribank,0,0,0,0,1,> 10M & <= 100M,2018
+caribank,0,0,0,0,0,> 10M & <= 100M,2018
 caritas_denmark,0,3,0,0,4,> 1M & <= 10M,2018
-caritas_serbia,5,20,0,0,5,<=1M,
-caritasfin,5,10,0,0,10,<=1M,
+caritas_serbia,1,4,0,0,1,No spend data for 2018-2020,
+caritasfin,1,3,0,0,2,No spend data for 2018-2020,
 carter-center,0,1,0,0,0,<=1M,2018
-cavwoc,0,1,0,0,0,<=1M,
-cbi-nigeria,0,2,0,0,0,<=1M,
+cavwoc,0,1,0,0,0,No spend data for 2018-2020,
+cbi-nigeria,0,2,0,0,0,No spend data for 2018-2020,
 cbm,0,3,0,0,4,> 1M & <= 10M,2020
 ccc,0,1,0,0,0,> 1M & <= 10M,2018
-ccdnigeria,3,0,0,0,0,<=1M,
-cda,0,2,0,0,0,<=1M,
+ccdnigeria,1,0,0,0,0,No spend data for 2018-2020,
+cda,0,2,0,0,0,No spend data for 2018-2020,
 cdacnetwork,0,2,0,0,0,<=1M,2020
-cdc,0,2,0,0,0,<=1M,
+cdc,0,2,0,0,0,No spend data for 2018-2020,
 cdeb-kvhb_admin,0,2,0,0,0,<=1M,2019
-cdi,0,0,0,0,2,<=1M,
+cdi,0,0,0,0,2,No spend data for 2018-2020,
 cdp,0,0,0,0,0,<=1M,2019
 cec,0,1,0,0,1,<=1M,2018
-ceci,0,0,0,0,1,<=1M,
-cecily,0,4,0,0,1,<=1M,
-ced,0,2,0,0,3,<=1M,
-cehrd1,0,0,0,0,0,<=1M,
-cepi,0,1,0,0,0,> 100M & <= 1B,2020
-cepr,0,0,0,0,0,<=1M,
-cerf,4,64,0,0,9,> 100M & <= 1B,2020
-cesvi,0,1,0,0,0,<=1M,
-cfm,0,2,0,0,0,<=1M,
+ceci,0,0,0,0,1,No spend data for 2018-2020,
+cecily,0,4,0,0,1,No spend data for 2018-2020,
+ced,0,2,0,0,3,No spend data for 2018-2020,
+cehrd1,0,0,0,0,0,No spend data for 2018-2020,
+cepi,0,0,0,0,0,> 100M & <= 1B,2020
+cepr,0,0,0,0,0,No spend data for 2018-2020,
+cerf,1,23,0,0,3,> 100M & <= 1B,2020
+ces-ua,0,0,0,0,0,No spend data for 2018-2020,
+cesvi,0,1,0,0,0,No spend data for 2018-2020,
+cfm,0,1,0,0,0,No spend data for 2018-2020,
 cfyas,0,4,0,0,2,> 1M & <= 10M,2018
-cgiar,0,0,0,0,0,<=1M,
-chai,0,0,0,0,6,> 10M & <= 100M,2019
+cgiar,0,1,0,0,0,No spend data for 2018-2020,
+chai,0,0,0,0,3,> 10M & <= 100M,2019
 chanceforchildhood,0,1,0,0,0,<=1M,2018
-chemonics,0,2,0,0,7,> 10M & <= 100M,2018
+chemonics,0,1,0,0,4,> 10M & <= 100M,2018
 child-dot_org,0,0,0,0,0,<=1M,2019
-childfund,0,3,0,0,5,<=1M,
-childhopeuk,0,0,0,0,0,> 1M & <= 10M,2019
-ciafg,0,2,0,0,1,<=1M,
-cibe,9,47,0,0,9,> 1M & <= 10M,2018
-cic,0,4,0,0,1,<=1M,
-cicni,0,0,0,0,1,<=1M,
+childfund,0,3,0,0,5,No spend data for 2018-2020,
+childhopeuk,0,0,0,0,1,> 1M & <= 10M,2019
+chs_alliance,0,0,0,0,0,No spend data for 2018-2020,
+ciafg,0,2,0,0,1,No spend data for 2018-2020,
+cibe,3,17,0,0,3,> 1M & <= 10M,2018
+cic,0,4,0,0,1,No spend data for 2018-2020,
+cicni,0,0,0,0,1,No spend data for 2018-2020,
 cidr,0,1,0,0,0,<=1M,2020
-cif,5,62,0,0,24,<=1M,
-cifal,0,1,0,0,0,<=1M,
-ciks,0,2,0,0,0,<=1M,
-cilc,3,0,0,0,0,<=1M,
-cini_jhk,0,0,0,0,0,<=1M,
+cif,5,62,0,0,24,No spend data for 2018-2020,
+cifal,0,1,0,0,0,No spend data for 2018-2020,
+ciks,0,2,0,0,0,No spend data for 2018-2020,
+cilc,1,0,0,0,0,No spend data for 2018-2020,
+cini_jhk,0,0,0,0,0,No spend data for 2018-2020,
 cip,0,1,0,0,3,> 1M & <= 10M,2020
-cis,0,4,0,0,2,<=1M,2020
-cisu,0,1,0,0,1,<=1M,
-ciuk,0,18,0,0,5,> 10M & <= 100M,2019
+ciprb,0,1,0,0,1,<=1M,2020
+cis,0,2,0,0,1,<=1M,2020
+cisu,0,1,0,0,1,No spend data for 2018-2020,
+ciuk,0,16,0,0,4,> 10M & <= 100M,2019
 civic_admin,0,4,0,0,0,> 10M & <= 100M,2019
 civicus,0,1,0,0,1,> 1M & <= 10M,2019
-ciz,0,2,0,0,1,<=1M,
+ciz,0,2,0,0,1,No spend data for 2018-2020,
 cjp,0,0,0,0,0,<=1M,2019
+cku,2,1,0,0,1,> 10M & <= 100M,2020
 clasp,0,0,0,0,1,> 1M & <= 10M,2019
 clerd-prpi,0,0,0,0,0,<=1M,2018
 clgf_data,0,2,0,0,0,<=1M,2020
@@ -266,640 +271,648 @@ climate_centre,0,0,0,0,0,> 1M & <= 10M,2018
 clingendael,0,5,0,0,3,> 1M & <= 10M,2018
 cncd,0,1,0,0,0,> 1M & <= 10M,2019
 cnepal,0,2,0,0,1,<=1M,2018
-cobracollective,0,0,0,0,0,<=1M,
+cobracollective,0,0,0,0,0,No spend data for 2018-2020,
 cocnl_publisher,0,0,0,0,3,> 1M & <= 10M,2019
-coda,0,1,0,0,0,<=1M,
-coffey,2,12,0,0,7,> 10M & <= 100M,2018
+coda,0,1,0,0,0,No spend data for 2018-2020,
+coffey,2,12,0,0,10,> 10M & <= 100M,2018
 col-greenfinance,0,1,0,0,1,<=1M,2019
 colalife,0,1,0,0,0,<=1M,2018
-come,0,1,0,0,5,<=1M,
-commonwealthsecretariat,0,10,0,0,1,> 10M & <= 100M,2018
+come,0,1,0,0,5,No spend data for 2018-2020,
+commonwealthsecretariat,0,11,0,0,1,> 10M & <= 100M,2018
 comp_uk,0,0,0,0,0,<=1M,2020
 concern_worldwide,1,8,0,0,2,> 10M & <= 100M,2019
 concernuk,0,2,0,0,0,> 10M & <= 100M,2020
 concordis,0,1,0,0,0,<=1M,2020
 congodorpen,0,2,0,0,0,> 1M & <= 10M,2018
-cord,1,5,0,0,1,<=1M,
+cord,1,5,0,0,1,No spend data for 2018-2020,
 cordaid,0,37,0,0,3,> 10M & <= 100M,2019
-cost_uk,0,0,0,0,2,> 1M & <= 10M,2019
+cost_uk,0,0,0,0,1,> 1M & <= 10M,2019
 cowater,0,0,0,0,0,> 1M & <= 10M,2019
 cowateruk,0,1,0,0,1,> 1M & <= 10M,2020
 cowi,0,1,0,0,2,> 10M & <= 100M,2020
-cpi,0,0,0,0,3,<=1M,
-cprojects,0,0,0,0,4,> 10M & <= 100M,2018
+cpi,0,0,0,0,3,No spend data for 2018-2020,
+cprojects,0,4,0,0,6,> 10M & <= 100M,2018
 cr,1,13,0,0,2,> 1M & <= 10M,2020
 crane,0,1,0,0,1,> 1M & <= 10M,2018
 crb-ai_admin,0,1,0,0,3,> 1M & <= 10M,2018
 creausa-org,1,3,0,0,0,<=1M,2018
-crehpa,3,3,0,0,0,<=1M,2018
+crehpa,1,3,0,0,0,<=1M,2018
 crisisgroup,0,0,0,0,0,<=1M,2020
-crs,0,0,0,0,5,> 10M & <= 100M,2019
+crs,0,0,0,0,2,> 10M & <= 100M,2019
 csa,0,3,0,0,2,<=1M,2018
-csa-kenya,0,2,0,0,0,<=1M,
-csc,0,0,0,0,0,<=1M,
+csa-kenya,0,2,0,0,0,No spend data for 2018-2020,
+csc,0,0,0,0,1,No spend data for 2018-2020,
 csom1,0,3,0,0,0,<=1M,2018
 cssf,0,3,0,0,0,> 100M & <= 1B,2019
-cst,0,0,0,0,0,<=1M,
+cst,0,0,0,0,0,No spend data for 2018-2020,
 csu,0,1,0,0,3,> 1M & <= 10M,2019
 ct-admin,0,1,0,0,0,<=1M,2018
 ctbeijing,0,2,0,0,0,<=1M,2020
-ctc,0,3,0,0,0,<=1M,
+ctc,0,3,0,0,0,No spend data for 2018-2020,
 cu,0,0,0,0,4,> 1M & <= 10M,2019
 cuamm,0,0,0,0,1,> 1M & <= 10M,2019
-cuammtrustees,0,1,0,0,0,<=1M,
-cww,0,1,0,0,0,<=1M,
+cuammtrustees,0,1,0,0,0,No spend data for 2018-2020,
+cww,0,1,0,0,0,No spend data for 2018-2020,
 cyan,0,2,0,0,0,<=1M,2018
 d4d,0,1,0,0,0,<=1M,2018
-dai,0,2,0,0,1,> 1M & <= 10M,2018
-dai-e,0,9,0,0,8,> 100M & <= 1B,2018
+dai,0,2,0,0,3,> 1M & <= 10M,2018
+dai-e,0,3,0,0,3,> 100M & <= 1B,2018
 damien-foundation,0,1,0,0,2,> 1M & <= 10M,2018
 dance4life,0,1,0,0,0,<=1M,2018
-dangbo,0,1,0,0,3,<=1M,
-danida,21,153,0,0,40,> 1B,2019
-danishrc,0,0,0,0,1,<=1M,
+dangbo,0,1,0,0,3,No spend data for 2018-2020,
+danida,6,65,0,0,15,> 1B,2019
+danishrc,0,0,0,0,1,No spend data for 2018-2020,
 danmission,0,2,0,0,1,> 1M & <= 10M,2018
-dapp,1,7,0,0,3,<=1M,
+dapp,1,7,0,0,3,No spend data for 2018-2020,
 dawuro_da,0,0,0,0,1,<=1M,2019
 dba,0,1,0,0,1,<=1M,2018
-dc,0,1,0,0,3,<=1M,
-dca,0,4,0,0,1,> 10M & <= 100M,2020
-dcaf,0,3,0,0,6,> 1M & <= 10M,2018
+dc,0,1,0,0,3,No spend data for 2018-2020,
+dca,1,4,0,0,5,> 10M & <= 100M,2020
+dcaf,0,3,0,0,7,> 1M & <= 10M,2018
 dcapitalpartners,0,1,0,0,0,> 1M & <= 10M,2019
 dciecpatnl,0,2,0,0,0,> 1M & <= 10M,2018
 dcms,0,0,0,0,0,> 1M & <= 10M,2019
 ddp,0,2,0,0,3,<=1M,2018
-dec-uk,0,0,0,0,0,> 10M & <= 100M,2019
+dec-uk,0,0,0,0,2,> 10M & <= 100M,2019
 decp,0,1,0,0,0,> 1M & <= 10M,2019
-defra_transparency,0,12,0,0,2,> 10M & <= 100M,2019
-delivery_associates,0,0,0,0,0,<=1M,
+defenddefenders,0,1,0,0,0,No spend data for 2018-2020,
+defra_transparency,0,6,0,0,1,> 10M & <= 100M,2019
+delivery_associates,0,0,0,0,0,No spend data for 2018-2020,
 deltares,0,5,0,0,5,> 1M & <= 10M,2018
 dfe,0,0,0,0,0,> 10M & <= 100M,2018
-dfpa,0,0,0,0,1,<=1M,
+dfpa,0,0,0,0,1,No spend data for 2018-2020,
 dgf,0,1,0,0,2,> 10M & <= 100M,2018
 dggf_financing_local_smes,0,5,0,0,0,> 10M & <= 100M,2018
 dgmh,0,0,0,0,1,<=1M,2018
 dhrc_nepal,0,0,0,0,0,<=1M,2018
-dhsc,1,6,0,0,3,> 100M & <= 1B,2019
+dhsc,1,3,0,0,0,> 100M & <= 1B,2019
 diakonia802017-3517,0,5,0,0,0,<=1M,2019
-diltuk,0,4,0,0,0,<=1M,
-dipr,0,14,0,0,4,> 1M & <= 10M,2019
+diltuk,0,4,0,0,0,No spend data for 2018-2020,
+dipr,0,7,0,0,2,> 1M & <= 10M,2019
 dit,0,3,0,0,0,> 1M & <= 10M,2020
 djapo,0,2,0,0,0,> 1M & <= 10M,2019
-dki1151219,0,2,0,0,1,<=1M,2019
-dkt,3,1,0,0,0,<=1M,
-dkt_ethiopia,0,2,0,0,4,<=1M,
+dki1151219,0,1,0,0,2,<=1M,2019
+dkt,1,1,0,0,0,No spend data for 2018-2020,
+dkt_ethiopia,0,2,0,0,4,No spend data for 2018-2020,
 dla,0,1,0,0,2,> 10M & <= 100M,2018
 dmi_admin,0,0,0,0,0,> 1M & <= 10M,2019
-dmru,1,1,0,0,1,<=1M,
-dndi_transparency,0,2,0,0,2,> 10M & <= 100M,2019
-dochas,0,1,0,0,0,<=1M,
-dorp-org,0,1,0,0,0,<=1M,
-dotw_uk,0,2,0,0,0,<=1M,
-dpod,0,7,0,0,5,> 1M & <= 10M,2018
+dndi_transparency,0,1,0,0,1,> 10M & <= 100M,2019
+dochas,0,1,0,0,0,No spend data for 2018-2020,
+dorp-org,0,1,0,0,0,No spend data for 2018-2020,
+dotw_uk,0,2,0,0,0,No spend data for 2018-2020,
+dpod,1,1,0,0,1,> 1M & <= 10M,2018
 dps-nampula,0,0,0,0,1,<=1M,2019
-draf,0,0,0,0,0,<=1M,
-drc,0,3,0,0,24,> 100M & <= 1B,2020
-drf,0,0,0,0,0,<=1M,
+draf,0,0,0,0,0,No spend data for 2018-2020,
+drc,0,1,0,0,8,> 100M & <= 1B,2020
+drf,0,0,0,0,0,No spend data for 2018-2020,
 dri,0,1,0,0,0,<=1M,2020
-dspd_unikin,0,0,0,0,1,<=1M,
-dthfxx12,0,5,0,0,1,<=1M,
-dttillp,0,0,0,0,1,<=1M,
-duf,0,0,0,0,0,> 1M & <= 10M,2019
-dwp,0,0,0,0,0,<=1M,
+dspd_unikin,0,0,0,0,1,No spend data for 2018-2020,
+dthfxx12,0,5,0,0,1,No spend data for 2018-2020,
+dttillp,0,0,0,0,1,No spend data for 2018-2020,
+duf,0,2,0,0,0,> 1M & <= 10M,2019
+dwp,0,0,0,0,0,No spend data for 2018-2020,
 dynamo_international,0,2,0,0,0,<=1M,2018
-e4i,0,0,0,0,2,<=1M,
+e4i,0,0,0,0,2,No spend data for 2018-2020,
 eap,0,0,0,0,0,<=1M,2020
-ebrd,1,3,0,0,0,<=1M,
-ec,0,2,0,0,1,<=1M,2018
-ec-devco,0,1527,0,0,493,> 1B,2020
-ec-echo,3,30,0,0,12,> 1B,2019
-ec-fpi,0,270,0,0,137,> 100M & <= 1B,2018
-ec-near,0,280,0,0,117,> 1B,2020
+ebrd,0,0,0,0,0,No spend data for 2018-2020,
+ec,0,0,0,0,1,<=1M,2018
+ec-devco,0,1655,0,0,527,> 1B,2020
+ec-echo,1,9,0,0,4,> 1B,2019
+ec-fpi,0,270,0,0,138,> 100M & <= 1B,2018
+ec-near,0,325,0,0,131,> 1B,2020
 ecdpm,0,4,0,0,7,> 1M & <= 10M,2020
 eclosio,0,2,0,0,1,> 1M & <= 10M,2019
-ecorysnl,3,2,0,0,4,<=1M,2018
+ecorysnl,1,2,0,0,4,<=1M,2018
 ecuk,2,7,0,0,1,> 1M & <= 10M,2020
 edt_kenya,0,1,0,0,2,> 1M & <= 10M,2019
-edt_rwanda,0,0,0,0,1,<=1M,
+edt_rwanda,0,2,0,0,1,No spend data for 2018-2020,
 educate,0,0,0,0,0,<=1M,2018
 edukans_foundation,0,6,0,0,2,> 10M & <= 100M,2019
-eel,0,1,0,0,1,<=1M,
+eel,0,1,0,0,1,No spend data for 2018-2020,
 ef_,0,4,0,0,2,> 1M & <= 10M,2018
 ehpea,0,2,0,0,3,<=1M,2020
-eib,1,4,0,0,3,<=1M,
+eib,0,2,0,0,1,No spend data for 2018-2020,
 eif,0,0,0,0,1,> 1M & <= 10M,2018
-eip,0,1,0,0,4,<=1M,
-eiuk,0,2,0,0,0,<=1M,
+eip,0,1,0,0,4,No spend data for 2018-2020,
+eiuk,0,2,0,0,0,No spend data for 2018-2020,
 ejc,0,3,0,0,2,> 1M & <= 10M,2018
-elrha,0,0,0,0,1,<=1M,
-elsam,0,0,0,0,2,<=1M,
-emissa,0,3,0,0,0,<=1M,
+elrha,0,0,0,0,1,No spend data for 2018-2020,
+elsam,0,0,0,0,2,No spend data for 2018-2020,
+emissa,0,3,0,0,0,No spend data for 2018-2020,
 emms,0,3,0,0,3,<=1M,2018
-enabel,0,6,0,0,0,<=1M,
+enabel,0,2,0,0,0,No spend data for 2018-2020,
 energy_saving_trust,0,0,0,0,0,> 1M & <= 10M,2019
-engenderhealth_eth,0,5,0,0,4,> 1M & <= 10M,2020
+engenderhealth_eth,0,2,0,0,3,> 1M & <= 10M,2020
 epf,0,0,0,0,0,<=1M,2020
+epha,0,1,0,0,1,No spend data for 2018-2020,
 equileap,0,1,0,0,0,<=1M,2018
-esfd,0,1,0,0,0,<=1M,
+esfd,0,1,0,0,0,No spend data for 2018-2020,
 esrf,0,2,0,0,1,<=1M,2018
 ethiopiaidireland,0,0,0,0,0,<=1M,2018
 ethiopiaiduk,0,1,0,0,1,> 1M & <= 10M,2018
-eti,0,0,0,0,3,> 1M & <= 10M,2020
+eti,0,0,0,0,6,> 1M & <= 10M,2020
 etmkdw,0,0,0,0,0,<=1M,2019
-evc,0,2,0,0,0,<=1M,
-ewb_canada,0,2,0,0,0,<=1M,
+evc,0,2,0,0,0,No spend data for 2018-2020,
+ewb_canada,0,2,0,0,0,No spend data for 2018-2020,
 ewf,0,0,0,0,0,<=1M,2020
-excellent,0,1,0,0,0,<=1M,
-f-aids,0,7,0,0,14,> 10M & <= 100M,2018
+excellent,0,1,0,0,0,No spend data for 2018-2020,
+f-aids,0,4,0,0,7,> 10M & <= 100M,2018
 f2a,0,3,0,0,0,<=1M,2020
 fa,1,8,0,0,0,> 10M & <= 100M,2018
 fact,0,1,0,0,0,<=1M,2018
-fairfood,0,1,0,0,0,<=1M,
-fairtrade_be,0,0,0,0,1,<=1M,2018
-fairtrade_international,0,3,0,0,1,<=1M,
+fairfood,0,1,0,0,0,No spend data for 2018-2020,
+fairtrade_be,0,1,0,0,2,<=1M,2018
+fairtrade_international,0,3,0,0,1,No spend data for 2018-2020,
 fao,0,6,0,0,0,> 1B,2019
 fca,0,0,0,0,0,<=1M,2019
 fcam,0,0,0,0,1,> 1M & <= 10M,2018
-fcdf,0,1,0,0,0,<=1M,
-fcdo,0,149,0,0,104,> 1B,2018
+fcdf,0,1,0,0,3,No spend data for 2018-2020,
+fcdo,0,112,0,0,103,> 1B,2018
 fci,0,1,0,0,0,<=1M,2019
 femnet,0,1,0,0,0,<=1M,2020
-ff,0,1,0,0,0,<=1M,
-ffi_publisher,0,1,0,0,0,<=1M,
-fgae_ethiopia,0,0,0,0,0,<=1M,
+ff,0,1,0,0,0,No spend data for 2018-2020,
+ffi_publisher,0,1,0,0,0,No spend data for 2018-2020,
+fgae_ethiopia,0,0,0,0,0,No spend data for 2018-2020,
 fh,0,0,0,0,2,<=1M,2020
-fh_ch,0,1,0,0,0,<=1M,
+fh_ch,0,1,0,0,0,No spend data for 2018-2020,
 fhfuk,0,0,0,0,0,<=1M,2019
-fhi360,0,0,0,0,0,<=1M,
+fhi360,0,0,0,0,0,No spend data for 2018-2020,
 fiabel,0,1,0,0,1,<=1M,2018
 fian-belgium,0,2,0,0,0,<=1M,2019
 fida,0,1,0,0,0,<=1M,2019
 field_ready,0,0,0,0,0,<=1M,2020
 fifty_eight,0,0,0,0,0,<=1M,2020
-fiftyfifty-lb,0,1,0,0,0,<=1M,
+fiftyfifty-lb,0,1,0,0,0,No spend data for 2018-2020,
 fimi_iiwf_2019,0,1,0,0,0,> 1M & <= 10M,2018
-finance_canada,2,0,0,0,0,<=1M,
-finland_mfa,0,174,0,0,3,> 100M & <= 1B,2019
+finance_canada,2,0,0,0,0,No spend data for 2018-2020,
+finland_mfa,0,175,0,0,3,> 100M & <= 1B,2019
 fipag,0,1,0,0,0,> 1M & <= 10M,2018
-flepuganda,0,1,0,0,0,<=1M,
-fm,0,2,0,0,0,<=1M,
-fmo,0,3,0,0,0,<=1M,
-fms,0,0,0,0,0,<=1M,
+flepuganda,0,1,0,0,0,No spend data for 2018-2020,
+fm,0,2,0,0,0,No spend data for 2018-2020,
+fmo,0,3,0,0,0,No spend data for 2018-2020,
+fms,0,0,0,0,0,No spend data for 2018-2020,
 fo_germany,6,30,0,0,3,> 1B,2020
-foe_ewni,0,1,0,0,0,<=1M,
-foe-ghana,0,2,0,0,1,<=1M,
+foe_ewni,0,1,0,0,0,No spend data for 2018-2020,
+foe-ghana,0,2,0,0,1,No spend data for 2018-2020,
 foei,0,0,0,0,2,> 1M & <= 10M,2018
 foenl,0,3,0,0,2,> 10M & <= 100M,2018
-fomin,3,154,0,0,0,> 10M & <= 100M,2020
+fomin,1,79,0,0,0,> 10M & <= 100M,2020
 foncaba,0,2,0,0,1,<=1M,2018
 fos,0,2,0,0,0,> 1M & <= 10M,2019
-foundation_center,1,13,0,0,2,<=1M,
-fowode,3,0,0,0,0,<=1M,
-france,12,138,0,0,18,<=1M,
-frankwater,0,2,0,0,0,<=1M,
-free_press_unlimited,0,8,0,0,3,> 1M & <= 10M,2020
-freeagirl,2,16,0,0,0,<=1M,2020
+foundation_center,1,13,0,0,2,No spend data for 2018-2020,
+fowode,1,0,0,0,0,No spend data for 2018-2020,
+france,6,40,0,0,6,No spend data for 2018-2020,
+frankwater,0,2,0,0,0,No spend data for 2018-2020,
+free_press_unlimited,0,9,0,0,3,> 1M & <= 10M,2020
+freeagirl,1,9,0,0,0,<=1M,2020
 friendsofpwyf,0,1,0,0,0,<=1M,2018
+fsduganda,0,0,0,0,1,<=1M,2020
 ftm-291333,0,0,0,0,0,<=1M,2020
 fucid,0,3,0,0,0,<=1M,2018
 fundacion-acceso,0,0,0,0,0,<=1M,2018
 fwf,0,11,0,0,0,> 10M & <= 100M,2018
-fyf,1,6,0,0,2,<=1M,
+fyf,1,6,0,0,2,No spend data for 2018-2020,
 g3w-m3m_admin,0,2,0,0,0,> 1M & <= 10M,2018
-gac-amc,0,45,0,0,3,> 1B,2018
-gain,1,13,0,0,1,> 10M & <= 100M,2019
-gan,0,1,0,0,0,<=1M,
+gac-amc,1,19,0,0,1,> 1B,2018
+gain,0,1,0,0,0,> 10M & <= 100M,2019
+gan,0,1,0,0,0,No spend data for 2018-2020,
 gardp,0,0,0,0,0,> 10M & <= 100M,2019
-gavi,0,3,0,0,0,> 1B,2019
+gavi,0,1,0,0,0,> 1B,2019
 gb-chc-220949,0,0,0,0,1,> 100M & <= 1B,2020
 gdi,0,3,0,0,2,<=1M,2020
-gecfundmanagerpwc,3,2,0,0,0,> 10M & <= 100M,2019
-gef,0,1,0,0,0,<=1M,
+gecfundmanagerpwc,1,2,0,0,0,> 10M & <= 100M,2019
+gef,0,1,0,0,0,No spend data for 2018-2020,
 geomoun,0,2,0,0,1,<=1M,2019
-gfems,0,0,0,0,2,> 1M & <= 10M,2020
+gfems,0,0,0,0,1,> 1M & <= 10M,2020
 gggi,0,6,0,0,4,> 10M & <= 100M,2018
 gi-jhu,0,0,0,0,0,<=1M,2018
-gichd,0,2,0,0,3,<=1M,2019
+gichd,0,1,0,0,2,<=1M,2019
 gif,0,3,0,0,2,> 10M & <= 100M,2018
-giin,0,0,0,0,0,<=1M,
+giin,0,0,0,0,0,No spend data for 2018-2020,
 girlsnotbrides,0,1,0,0,4,> 1M & <= 10M,2018
 giro555,0,0,0,0,0,> 10M & <= 100M,2018
 givedirectly,0,0,0,0,0,> 1M & <= 10M,2018
-gl,4,2,0,0,0,<=1M,
+gl,2,2,0,0,0,No spend data for 2018-2020,
 globalcanopy,0,1,0,0,0,<=1M,2020
 globalgiving,1,5,0,0,2,> 100M & <= 1B,2020
-globaltfokus,0,0,0,0,1,<=1M,
-gnpplus,0,0,0,0,0,<=1M,
+globaltfokus,0,0,0,0,1,No spend data for 2018-2020,
+gnpplus,0,0,0,0,0,No spend data for 2018-2020,
 goal,0,2,0,0,2,> 1M & <= 10M,2018
-gogla,0,0,0,0,1,<=1M,
-gpe,0,1,0,0,0,<=1M,
+gogla,0,0,0,0,1,No spend data for 2018-2020,
+gpe,0,1,0,0,0,No spend data for 2018-2020,
 gppac,0,3,0,0,2,> 1M & <= 10M,2019
-gpsp-org,3,2,0,0,4,> 1M & <= 10M,2018
+gpsp-org,1,2,0,0,4,> 1M & <= 10M,2018
 grc2018,0,1,0,0,0,<=1M,2019
-ground-truth-solutions,2,0,0,0,0,<=1M,2020
-growmovement_admin,0,6,0,0,0,<=1M,
+ground-truth-solutions,1,0,0,0,0,<=1M,2020
+growmovement_admin,0,6,0,0,0,No spend data for 2018-2020,
 gsg,0,0,0,0,0,<=1M,2020
-guluuni,0,0,0,0,0,<=1M,
+guluuni,0,0,0,0,0,No spend data for 2018-2020,
 guttmacher,0,1,0,0,0,> 1M & <= 10M,2018
-ha-i,0,1,0,0,3,<=1M,
-hagar_uk,0,4,0,0,0,<=1M,
+gwp,0,0,0,0,0,No spend data for 2018-2020,
+ha-i,0,1,0,0,3,No spend data for 2018-2020,
+hagar_uk,0,4,0,0,0,No spend data for 2018-2020,
 hai,0,2,0,0,2,<=1M,2018
-halo,0,7,0,0,3,> 1M & <= 10M,2018
+halo,0,5,0,0,3,> 1M & <= 10M,2018
 handinhand,0,2,0,0,1,<=1M,2018
-hauk,1,3,0,0,0,<=1M,
+hauk,1,3,0,0,0,No spend data for 2018-2020,
 hdcentre,0,0,0,0,0,> 1M & <= 10M,2019
 hdi,0,0,0,0,6,<=1M,2019
 healthnet,0,0,0,0,0,<=1M,2018
 healthpartners-international,0,0,0,0,1,> 1M & <= 10M,2018
 hefoundation,0,0,0,0,1,<=1M,2018
-heifernederland,0,3,0,0,3,<=1M,
-helpage_international,0,9,0,0,1,> 10M & <= 100M,2019
-hewlett-foundation,0,9,0,0,2,> 100M & <= 1B,2018
+heifernederland,0,3,0,0,3,No spend data for 2018-2020,
+helpage_international,1,7,0,0,0,> 10M & <= 100M,2019
+hewlett-foundation,0,5,0,0,1,> 100M & <= 1B,2018
 hfc,0,1,0,0,1,<=1M,2019
-hgc,0,0,0,0,1,<=1M,
-hha,0,4,0,0,0,<=1M,
+hgc,0,0,0,0,1,No spend data for 2018-2020,
+hha,0,4,0,0,0,No spend data for 2018-2020,
 hhc,0,1,0,0,1,<=1M,2019
-hi,1,6,0,0,0,<=1M,
+hi,1,6,0,0,0,No spend data for 2018-2020,
 hi_fed,0,0,0,0,0,<=1M,2019
 hib,0,2,0,0,2,> 1M & <= 10M,2018
 hif,0,3,0,0,1,> 1M & <= 10M,2019
-hiil_mfa,0,2,0,0,4,<=1M,
-hiuk,1,38,0,0,62,> 1M & <= 10M,2020
-hmtfitb,0,1,0,0,1,<=1M,
+hiil_mfa,0,2,0,0,4,No spend data for 2018-2020,
+hiuk,1,26,0,0,42,> 1M & <= 10M,2020
+hmtfitb,0,1,0,0,1,No spend data for 2018-2020,
 homeoffice,0,4,0,0,0,> 100M & <= 1B,2019
-horizons,0,0,0,0,0,<=1M,
+horizons,0,0,0,0,0,No spend data for 2018-2020,
 hp_12,1,1,0,0,0,<=1M,2019
 hpa,1,7,0,0,1,> 1M & <= 10M,2018
 hqai,0,0,0,0,0,> 1M & <= 10M,2019
-hrf,0,0,0,0,1,<=1M,
-hri,0,1,0,0,2,<=1M,
-hsa,0,2,0,0,0,<=1M,
-hsi,0,3,0,0,8,<=1M,2019
-htspe,0,3,0,0,0,<=1M,
-humana_houben,0,2,0,0,0,<=1M,
-hwa-zm,0,1,0,0,0,<=1M,
-ia_nam,3,36,0,0,320,<=1M,
-iadb,31,178,0,0,3,> 1B,2020
-iavi,0,0,0,0,0,<=1M,
+hrf,0,0,0,0,1,No spend data for 2018-2020,
+hri,0,1,0,0,2,No spend data for 2018-2020,
+hsa,0,2,0,0,0,No spend data for 2018-2020,
+hsi,0,2,0,0,4,<=1M,2019
+htspe,0,3,0,0,0,No spend data for 2018-2020,
+humana_houben,0,2,0,0,0,No spend data for 2018-2020,
+hwa-zm,0,1,0,0,0,No spend data for 2018-2020,
+ia_nam,0,11,0,0,106,No spend data for 2018-2020,
+iadb,19,97,0,0,2,> 1B,2020
+iavi,0,0,0,0,0,No spend data for 2018-2020,
 ibfd,0,2,0,0,0,<=1M,2018
-ibis_denmark,0,2,0,0,8,> 1M & <= 10M,2019
-icauk,0,0,0,0,0,<=1M,
+ibis_denmark,0,1,0,0,4,> 1M & <= 10M,2019
+icauk,0,0,0,0,0,No spend data for 2018-2020,
 icco-cooperation,0,17,0,0,3,> 10M & <= 100M,2018
 icdi,0,1,0,0,0,> 1M & <= 10M,2018
 icf,0,1,0,0,18,<=1M,2020
-icipe,0,0,0,0,0,<=1M,
-icm_mx,0,0,0,0,0,<=1M,
-icn,0,1,0,0,0,<=1M,
-icnl_org,0,2,0,0,0,> 1M & <= 10M,2020
-icraf_,3,1,0,0,3,> 1M & <= 10M,2018
-icrc,0,19,0,0,14,> 1B,2019
-ics,0,1,0,0,0,<=1M,
-ictj,0,0,0,0,3,> 1M & <= 10M,2020
+icipe,0,0,0,0,0,No spend data for 2018-2020,
+icm_mx,0,0,0,0,0,No spend data for 2018-2020,
+icn,0,1,0,0,0,No spend data for 2018-2020,
+icnl_org,0,3,0,0,0,> 1M & <= 10M,2020
+icraf_,1,1,0,0,3,> 1M & <= 10M,2018
+icrc,0,18,0,0,14,> 1B,2019
+ics,0,1,0,0,0,No spend data for 2018-2020,
+ictj,0,0,0,0,1,> 1M & <= 10M,2020
 icva,0,1,0,0,1,<=1M,2019
-icwrsa,0,0,0,0,1,<=1M,
-ida,0,0,0,0,0,<=1M,
-ide,0,0,0,0,0,<=1M,
+icwrsa,0,0,0,0,1,No spend data for 2018-2020,
+ida,0,0,0,0,0,No spend data for 2018-2020,
+ide,0,0,0,0,0,No spend data for 2018-2020,
 idea,0,5,0,0,2,> 10M & <= 100M,2019
-ideo_org,0,1,0,0,1,<=1M,
-idh,0,2,0,0,5,> 10M & <= 100M,2019
+ideo_org,0,1,0,0,1,No spend data for 2018-2020,
+idh,0,2,0,0,6,> 10M & <= 100M,2019
 idi,0,1,0,0,1,> 1M & <= 10M,2019
-idinsight,0,3,0,0,0,<=1M,
-idlo,0,2,0,0,8,> 10M & <= 100M,2019
-idom_mx,0,0,0,0,0,<=1M,
+idinsight,0,3,0,0,0,No spend data for 2018-2020,
+idlo,0,1,0,0,4,> 10M & <= 100M,2019
+idom_mx,0,0,0,0,0,No spend data for 2018-2020,
 idp,0,0,0,0,1,> 1M & <= 10M,2019
 idrccrdi,3,26,0,0,1,> 10M & <= 100M,2018
 ids,1,0,0,0,0,> 10M & <= 100M,2020
-idydc,0,2,0,0,2,<=1M,
-ieu,0,8,0,0,3,> 1M & <= 10M,2018
-ifac,0,2,0,0,1,<=1M,
-ifad,0,93,0,0,375,> 100M & <= 1B,2019
-ifangni,0,1,0,0,3,<=1M,
-ifcwbg,25,636,0,0,320,<=1M,
-ifdc-us,0,6,0,0,0,> 10M & <= 100M,2019
-ifoam,0,0,0,0,1,<=1M,
-ifpri,0,0,0,0,1,<=1M,
-ifrcrcs,0,111,0,0,0,> 1B,2018
+idydc,0,2,0,0,2,No spend data for 2018-2020,
+ieu,0,6,0,0,1,> 1M & <= 10M,2018
+ifac,0,2,0,0,1,No spend data for 2018-2020,
+ifad,0,30,0,0,125,> 100M & <= 1B,2019
+ifangni,0,1,0,0,3,No spend data for 2018-2020,
+ifcwbg,30,320,0,0,160,No spend data for 2018-2020,
+ifdc-us,0,3,0,0,1,> 10M & <= 100M,2019
+ifoam,0,0,0,0,1,No spend data for 2018-2020,
+ifpri,0,0,0,0,1,No spend data for 2018-2020,
+ifrcrcs,0,115,0,0,0,> 1B,2018
 ifsi_isvi,0,11,0,0,1,> 1M & <= 10M,2018
 ihedelft,0,1,0,0,2,> 1M & <= 10M,2018
-iif,0,0,0,0,1,<=1M,
+iif,0,0,0,0,1,No spend data for 2018-2020,
 iiss,0,0,0,0,0,<=1M,2019
 iiwe,0,1,0,0,3,> 1M & <= 10M,2018
 ilo,0,19,0,0,0,> 1B,2019
-imc_uk,2,13,0,0,14,> 10M & <= 100M,2020
+imc_uk,1,7,0,0,7,> 10M & <= 100M,2020
 imcw_admin,0,7,0,0,2,> 1M & <= 10M,2019
 imdmozambique,0,2,0,0,3,> 1M & <= 10M,2018
 imf,0,2,0,0,0,> 10M & <= 100M,2018
-impact_initiatives,0,2,0,0,2,> 1M & <= 10M,2020
-ims,0,1,0,0,1,<=1M,
-inasp,0,0,0,0,1,<=1M,2019
-inbar,3,0,0,0,4,<=1M,
+impact_initiatives,0,1,0,0,1,> 1M & <= 10M,2020
+imperial,0,0,0,0,0,No spend data for 2018-2020,
+ims,0,1,0,0,1,No spend data for 2018-2020,
+inasp,0,0,0,0,2,<=1M,2019
+inbar,1,0,0,0,4,No spend data for 2018-2020,
 indtrust,0,1,0,0,0,<=1M,2018
 ine_benin,0,1,0,0,3,<=1M,2019
 inhive,0,0,0,0,0,<=1M,2018
 inpud_admin,0,4,0,0,1,<=1M,2018
-inso,0,0,0,0,1,<=1M,
+inso,0,0,0,0,1,No spend data for 2018-2020,
 instiglio,0,3,0,0,0,<=1M,2018
-integrity,0,0,0,0,0,<=1M,
+integrity,0,0,0,0,0,No spend data for 2018-2020,
 integrity_action,1,7,0,0,1,<=1M,2019
-interaction,0,5,0,0,3,<=1M,
+interaction,0,5,0,0,3,No spend data for 2018-2020,
 interburns,0,1,0,0,0,<=1M,2018
 international-alert,0,3,0,0,4,> 1M & <= 10M,2018
-interpeace,0,0,0,0,0,<=1M,
+interpeace,0,0,0,0,0,No spend data for 2018-2020,
 intersos_main,0,0,0,0,0,<=1M,2019
 intrac,0,0,0,0,0,<=1M,2019
-intrahealth,0,2,0,0,1,<=1M,
-iodparc,2,6,0,0,0,<=1M,2018
-iom,0,3,0,0,0,<=1M,
-ip-india,0,3,0,0,0,<=1M,
-ipa,1,12,0,0,0,<=1M,
+intrahealth,0,2,0,0,1,No spend data for 2018-2020,
+iodparc,1,3,0,0,0,<=1M,2018
+iom,0,1,0,0,0,No spend data for 2018-2020,
+ip-india,0,3,0,0,0,No spend data for 2018-2020,
+ipa,1,12,0,0,0,No spend data for 2018-2020,
 ipao,0,1,0,0,2,<=1M,2018
-ipas,0,2,0,0,0,> 1M & <= 10M,2019
+ipas,0,1,0,0,0,> 1M & <= 10M,2019
 ipe,0,1,0,0,0,<=1M,2019
 ipeglobal,0,1,0,0,0,> 1M & <= 10M,2020
-ippf,0,5,0,0,6,> 10M & <= 100M,2019
+ippf,0,3,0,0,3,> 10M & <= 100M,2019
 iraq_foundation,0,0,0,0,4,<=1M,2018
 irc,0,2,0,0,5,> 1M & <= 10M,2019
-irc_inc,0,6,0,0,16,> 10M & <= 100M,2019
-irc_uk,0,4,0,0,4,> 10M & <= 100M,2018
-irex,0,1,0,0,2,<=1M,
+irc_inc,0,3,0,0,8,> 10M & <= 100M,2019
+irc_uk,0,2,0,0,2,> 10M & <= 100M,2018
+irex,0,1,0,0,2,No spend data for 2018-2020,
 irise_int,0,0,0,0,0,<=1M,2018
 irishaid,0,8,0,0,1,> 100M & <= 1B,2018
-irw,0,7,0,0,0,> 1M & <= 10M,2020
-issafrica,0,0,0,0,3,> 1M & <= 10M,2020
+irw,0,4,0,0,0,> 1M & <= 10M,2020
+isdglobal,0,1,0,0,0,<=1M,2020
+issafrica,0,5,0,0,3,> 1M & <= 10M,2020
 itad,0,5,0,0,1,> 1M & <= 10M,2018
-itc,1,4,0,0,0,> 10M & <= 100M,2019
+itc,1,5,0,0,0,> 10M & <= 100M,2019
 iteco,0,2,0,0,2,<=1M,2019
 itm,0,3,0,0,4,> 10M & <= 100M,2018
 itpc,0,2,0,0,0,<=1M,2018
-iucn,0,3,0,0,27,> 1M & <= 10M,2018
+iucn,0,2,0,0,17,> 1M & <= 10M,2018
 iucn_nl,0,2,0,0,0,> 10M & <= 100M,2018
-iw_admin,0,0,0,0,5,<=1M,
+iw_admin,0,0,0,0,5,No spend data for 2018-2020,
 iwda,0,10,0,0,2,> 1M & <= 10M,2018
-iwpr,0,0,0,0,1,<=1M,
-iww_publish,0,4,0,0,0,<=1M,
-iyafp,0,1,0,0,0,<=1M,
-jass,0,0,0,0,0,<=1M,
-jeevika_trust,0,1,0,0,0,<=1M,
-jica,31,82,0,0,2,<=1M,
+iwpr,0,0,0,0,1,No spend data for 2018-2020,
+iww_publish,0,4,0,0,0,No spend data for 2018-2020,
+iyafp,0,1,0,0,0,No spend data for 2018-2020,
+jass,0,0,0,0,0,No spend data for 2018-2020,
+jeevika_trust,0,1,0,0,0,No spend data for 2018-2020,
+jica,31,82,0,0,2,No spend data for 2018-2020,
 jocc_uk,0,2,0,0,0,<=1M,2018
 josa,0,0,0,0,2,<=1M,2020
-jowomenomics,0,0,0,0,0,<=1M,
-jrf,0,1,0,0,0,<=1M,
-kad,1,12,0,0,2,<=1M,
-karuna,0,3,0,0,1,<=1M,
-ke-ngc-3372,0,2,0,0,0,<=1M,
-kemitraan,0,1,0,0,2,<=1M,
-kepa,0,2,0,0,0,<=1M,
-kepsa,0,0,0,0,2,<=1M,
+jowomenomics,0,0,0,0,0,No spend data for 2018-2020,
+jpal,0,0,0,0,1,No spend data for 2018-2020,
+jrf,0,1,0,0,0,No spend data for 2018-2020,
+kad,1,12,0,0,2,No spend data for 2018-2020,
+karuna,0,3,0,0,1,No spend data for 2018-2020,
+ke-ngc-3372,0,2,0,0,0,No spend data for 2018-2020,
+kemitraan,0,1,0,0,2,No spend data for 2018-2020,
+kepa,0,2,0,0,0,No spend data for 2018-2020,
+kepsa,0,0,0,0,1,No spend data for 2018-2020,
 kesho_kenya,0,0,0,0,0,<=1M,2018
-ketou,0,1,0,0,3,<=1M,
+ketou,0,1,0,0,3,No spend data for 2018-2020,
+khf,0,1,0,0,1,No spend data for 2018-2020,
 kidasha,0,2,0,0,0,<=1M,2020
 kingscollegelondon,0,2,0,0,1,> 1M & <= 10M,2019
 kipkelion,0,1,0,0,0,<=1M,2018
 kit,0,1,0,0,0,<=1M,2018
 kiyo,0,1,0,0,3,> 1M & <= 10M,2018
-klouekanme,0,1,0,0,3,<=1M,
-kmet,0,1,0,0,0,<=1M,
+klouekanme,0,1,0,0,3,No spend data for 2018-2020,
+kmet,0,1,0,0,0,No spend data for 2018-2020,
 kmss,0,0,0,0,0,<=1M,2019
-knchr,0,0,0,0,1,<=1M,
-knmi,0,3,0,0,0,<=1M,
+knchr,0,0,0,0,1,No spend data for 2018-2020,
+knmi,0,3,0,0,0,No spend data for 2018-2020,
 knust,0,0,0,0,0,<=1M,2019
 knvb,0,1,0,0,0,<=1M,2018
-kpmgea,0,2,0,0,0,> 10M & <= 100M,2019
+kpmgea,0,2,0,0,1,> 10M & <= 100M,2019
 kpmgllp,0,0,0,0,1,> 10M & <= 100M,2019
-kpomasse,0,1,0,0,3,<=1M,
-ksrelief291,0,0,0,0,66,<=1M,
-kwaafrica,0,0,0,0,0,<=1M,
+kpomasse,0,1,0,0,3,No spend data for 2018-2020,
+ksrelief291,0,0,0,0,58,No spend data for 2018-2020,
+kwaafrica,0,0,0,0,0,No spend data for 2018-2020,
 laf,0,2,0,0,6,<=1M,2018
-lalo,0,1,0,0,5,<=1M,
-landell-mills,0,0,0,0,1,<=1M,
-larive,0,1,0,0,0,<=1M,
-lbg,0,3,0,0,6,> 1M & <= 10M,2020
+lalo,0,1,0,0,5,No spend data for 2018-2020,
+landell-mills,0,0,0,0,1,No spend data for 2018-2020,
+larive,0,1,0,0,0,No spend data for 2018-2020,
+lbg,0,1,0,0,2,> 1M & <= 10M,2020
 lc,0,0,0,0,3,> 1M & <= 10M,2018
 lcd_admin,0,4,0,0,0,> 1M & <= 10M,2019
 lcdi_admin,0,1,0,0,0,> 1M & <= 10M,2019
-lcds,0,3,0,0,0,<=1M,
-ldsps,0,0,0,0,0,<=1M,
-lead_international,1,8,0,0,0,<=1M,
+lcds,0,3,0,0,0,No spend data for 2018-2020,
+ldsps,0,0,0,0,0,No spend data for 2018-2020,
+lead_international,1,8,0,0,0,No spend data for 2018-2020,
 learningforlife,0,2,0,0,1,<=1M,2018
-leedsuni,0,0,0,0,4,<=1M,
+leedsuni,0,0,0,0,4,No spend data for 2018-2020,
 lepra,0,2,0,0,0,<=1M,2018
 lftw-be,0,1,0,0,3,> 1M & <= 10M,2019
-lftwnl,0,1,0,0,0,<=1M,
+lftwnl,0,1,0,0,0,No spend data for 2018-2020,
 lhcf,1,3,0,0,0,<=1M,2018
-libymca,0,0,0,0,0,<=1M,
-lithuania_mfa,0,2,0,0,0,<=1M,
-livelyminds,0,2,0,0,2,<=1M,
-livingearth12,1,5,0,0,2,<=1M,
-liwa-admin,0,0,0,0,0,<=1M,
-loftf,0,5,0,0,0,> 1M & <= 10M,2020
-lpi,0,2,0,0,4,<=1M,
+libymca,0,0,0,0,0,No spend data for 2018-2020,
+lithuania_mfa,0,2,0,0,0,No spend data for 2018-2020,
+livelyminds,0,2,0,0,2,No spend data for 2018-2020,
+livingearth12,1,5,0,0,2,No spend data for 2018-2020,
+liwa-admin,0,0,0,0,0,No spend data for 2018-2020,
+loftf,0,1,0,0,1,> 1M & <= 10M,2020
+lpi,0,2,0,0,4,No spend data for 2018-2020,
 lstm,0,1,0,0,0,> 1M & <= 10M,2018
 lts,0,0,0,0,1,> 1M & <= 10M,2020
-m_u,0,2,0,0,1,<=1M,2018
-m2m_sa,0,3,0,0,0,<=1M,
+m_u,0,3,0,0,3,<=1M,2018
+m2m_sa,0,3,0,0,0,No spend data for 2018-2020,
 maec,1,866,0,0,0,> 10M & <= 100M,2020
 mag,0,6,0,0,2,> 10M & <= 100M,2019
-magariro,3,0,0,0,0,<=1M,
-mailman_school_of_public_health,0,0,0,0,0,<=1M,
+magariro,1,0,0,0,0,No spend data for 2018-2020,
+mailman_school_of_public_health,0,0,0,0,0,No spend data for 2018-2020,
 mainline,0,1,0,0,1,> 1M & <= 10M,2018
-maksph,0,0,0,0,0,<=1M,
-malariaconsortium,6,92,0,0,3,> 10M & <= 100M,2018
+maksph,0,0,0,0,0,No spend data for 2018-2020,
+malariaconsortium,18,101,0,0,3,> 10M & <= 100M,2018
 mamac,0,2,0,0,2,> 1M & <= 10M,2020
-mamta_himc,0,2,0,0,0,<=1M,
+mamta_himc,0,2,0,0,0,No spend data for 2018-2020,
 manniondaniels,0,9,0,0,1,> 10M & <= 100M,2019
 mapaction,1,2,0,0,0,<=1M,2020
-marysmeals,0,4,0,0,0,> 1M & <= 10M,2018
-mastercard-foundation,1,2,0,0,1,<=1M,
+marysmeals,0,4,0,0,1,> 1M & <= 10M,2018
+mastercard-foundation,1,2,0,0,1,No spend data for 2018-2020,
 max-foundation,0,0,0,0,2,> 1M & <= 10M,2019
-maydayrescue,0,0,0,0,0,<=1M,
+maydayrescue,0,0,0,0,0,No spend data for 2018-2020,
 mce,0,4,0,0,8,> 10M & <= 100M,2018
-mcg,0,0,0,0,1,<=1M,
-mck,1,6,0,0,1,<=1M,
+mcg,0,0,0,0,1,No spend data for 2018-2020,
+mck,1,6,0,0,1,No spend data for 2018-2020,
 mcn,0,2,0,0,1,<=1M,2020
-mdf,0,3,0,0,2,> 1M & <= 10M,2020
-mdm-fr,0,0,0,0,2,<=1M,
-mdp,0,0,0,0,2,<=1M,
+mdf,0,1,0,0,1,> 1M & <= 10M,2020
+mdm-fr,0,0,0,0,2,No spend data for 2018-2020,
+mdp,0,0,0,0,2,No spend data for 2018-2020,
 medafrica,0,0,0,0,0,<=1M,2019
 medair,0,0,0,0,2,> 1M & <= 10M,2019
 medecins,0,1,0,0,7,> 1M & <= 10M,2018
 mefbenin,0,1,0,0,1,> 1M & <= 10M,2020
 memisa,0,3,0,0,4,> 1M & <= 10M,2019
-mfat,0,1,0,0,0,> 100M & <= 1B,2018
-mgcubed,0,3,0,0,0,<=1M,
-mia_india,0,2,0,0,0,<=1M,
-mic-uk,0,2,0,0,0,<=1M,
-mie-1134415,0,2,0,0,1,<=1M,
+mfat,1,1,0,0,0,> 100M & <= 1B,2018
+mgcubed,0,3,0,0,0,No spend data for 2018-2020,
+mia_india,0,2,0,0,0,No spend data for 2018-2020,
+mic-uk,0,2,0,0,0,No spend data for 2018-2020,
+mie-1134415,0,2,0,0,1,No spend data for 2018-2020,
 mifumi_uk,0,1,0,0,2,<=1M,2020
-millenniumchallenge,0,280,0,0,2,> 100M & <= 1B,2018
-minbuza_nl,0,19,0,0,6,> 1B,2020
-missioneast,1,1,0,0,1,<=1M,
-mlf,0,3,0,0,0,<=1M,
+millenniumchallenge,0,139,0,0,1,> 100M & <= 1B,2018
+minbuza_nl,0,33,0,0,11,> 1B,2020
+missioneast,1,1,0,0,1,No spend data for 2018-2020,
+mlf,0,3,0,0,0,No spend data for 2018-2020,
 mm1,0,1,0,0,1,> 1M & <= 10M,2018
 mmh,0,1,0,0,1,<=1M,2020
 mmha,0,3,0,0,2,<=1M,2019
-mml,0,2,0,0,2,> 10M & <= 100M,2020
+mml,0,1,0,0,2,> 10M & <= 100M,2020
 mmr_admin2,0,0,0,0,0,<=1M,2018
-mofa-jpn,0,0,0,0,1,<=1M,
+mofa-jpn,0,0,0,0,1,No spend data for 2018-2020,
 mofaic_uae,0,0,0,0,0,> 100M & <= 1B,2019
 mondefemmes,0,3,0,0,2,<=1M,2018
-mondiaalfnv,0,7,0,0,11,<=1M,
+mondiaalfnv,0,7,0,0,11,No spend data for 2018-2020,
 montrose_llp,0,0,0,0,1,> 1M & <= 10M,2019
 motivation,0,4,0,0,1,<=1M,2019
-mrc,0,1,0,0,0,<=1M,
-mrc-sierra-leone,0,0,0,0,2,<=1M,
-mrf,0,0,0,0,0,<=1M,
+mrc,0,1,0,0,0,No spend data for 2018-2020,
+mrc-sierra-leone,0,0,0,0,2,No spend data for 2018-2020,
+mrf,0,0,0,0,0,No spend data for 2018-2020,
 mrg,0,1,0,0,1,<=1M,2019
-msi,0,4,0,0,6,> 100M & <= 1B,2018
-msm-ipd,0,0,0,0,1,<=1M,
+msi,0,2,0,0,3,> 100M & <= 1B,2018
+msm-ipd,0,0,0,0,1,No spend data for 2018-2020,
 msmgf,0,0,0,0,1,> 1M & <= 10M,2018
-mstamp,2,7,0,0,0,<=1M,
-msuk,0,0,0,0,0,<=1M,2020
+mstamp,2,7,0,0,0,No spend data for 2018-2020,
+msuk,0,0,0,0,3,<=1M,2020
 msv,0,2,0,0,3,> 1M & <= 10M,2019
 mukisa_foundation,0,0,0,0,1,<=1M,2018
-muslimaid,0,1,0,0,0,<=1M,
-mvo_nederland,0,4,0,0,2,> 1M & <= 10M,2018
+muslimaid,0,1,0,0,0,No spend data for 2018-2020,
+mvo_nederland,0,2,0,0,1,> 1M & <= 10M,2018
 mwatana,0,2,0,0,2,> 1M & <= 10M,2020
-nacgond-,0,0,0,0,2,<=1M,
-namati_inc,0,2,0,0,0,<=1M,2019
-nathan,0,0,0,0,5,> 10M & <= 100M,2020
+nacgond-,0,0,0,0,2,No spend data for 2018-2020,
+namati_inc,0,6,0,0,0,<=1M,2019
+nathan,0,0,0,0,8,> 10M & <= 100M,2020
 ncea,0,0,0,0,0,> 1M & <= 10M,2018
-nchrdk,0,0,0,0,0,<=1M,
+nchrdk,0,0,0,0,0,No spend data for 2018-2020,
 ndf_fgm,0,0,0,0,0,<=1M,2019
-ndsicde,0,3,0,0,3,<=1M,2020
-needs,0,1,0,0,0,<=1M,
+ndsicde,0,5,0,0,6,<=1M,2020
+needs,0,1,0,0,0,No spend data for 2018-2020,
 neem,0,2,0,0,2,<=1M,2019
-nef_mali,0,2,0,0,4,> 1M & <= 10M,2019
-nef_usa,0,2,0,0,3,<=1M,
-nef-uk,0,0,0,0,2,<=1M,
-network4africa,0,0,0,0,1,<=1M,
-nfn,0,0,0,0,0,<=1M,
+nef_mali,0,1,0,0,2,> 1M & <= 10M,2019
+nef_usa,0,2,0,0,3,No spend data for 2018-2020,
+nef-uk,0,0,0,0,2,No spend data for 2018-2020,
+network4africa,0,0,0,0,1,No spend data for 2018-2020,
+nfn,0,0,0,0,0,No spend data for 2018-2020,
 ngo-federatie,0,1,0,0,1,> 1M & <= 10M,2019
-nico,0,0,0,0,0,<=1M,
+nico,0,0,0,0,0,No spend data for 2018-2020,
 nimd-hq,0,8,0,0,6,> 1M & <= 10M,2019
-niras,0,0,0,0,1,<=1M,
-nl-kvk-41207989,0,7,0,0,3,> 10M & <= 100M,2018
+niras,0,0,0,0,1,No spend data for 2018-2020,
+nl-kvk-41207989,1,3,0,0,1,> 10M & <= 100M,2018
 nl-kvk-54436222-27541,0,2,0,0,1,> 1M & <= 10M,2018
 nlr,0,2,0,0,6,<=1M,2020
-nlr_indonesia,0,0,0,0,0,<=1M,
-nlrc,1,21,0,0,7,> 10M & <= 100M,2020
+nlr_indonesia,0,0,0,0,0,No spend data for 2018-2020,
+nlrc,0,5,0,0,2,> 10M & <= 100M,2020
 nmhiati,0,0,0,0,1,<=1M,2018
 nned,0,0,0,0,2,<=1M,2018
 nnjs_nepal,0,0,0,0,0,<=1M,2020
 norad,0,3,0,0,0,> 1B,2019
 npa,0,12,0,0,2,> 10M & <= 100M,2019
 npm,0,0,0,0,0,<=1M,2018
-npss,0,0,0,0,1,<=1M,
-nrc,0,16,0,0,16,> 100M & <= 1B,2020
-nrgi,3,3,0,0,0,> 1M & <= 10M,2018
+npss,0,2,0,0,3,No spend data for 2018-2020,
+nrc,0,7,0,0,4,> 100M & <= 1B,2020
+nrgi,1,3,0,0,0,> 1M & <= 10M,2018
 nri,0,0,0,0,2,<=1M,2018
-nrt-kenya,0,0,0,0,0,<=1M,
+nrt-kenya,0,0,0,0,0,No spend data for 2018-2020,
 nso,0,4,0,0,7,> 1M & <= 10M,2018
 nswp,0,2,0,0,0,<=1M,2019
-nuffic20171017,1,0,0,0,0,<=1M,
+nuffic20171017,1,0,0,0,0,No spend data for 2018-2020,
 nutritionintl,0,0,0,0,0,> 1M & <= 10M,2019
-nwo,0,1,0,0,1,<=1M,
+nwo,0,1,0,0,1,No spend data for 2018-2020,
 nwp,0,1,0,0,1,> 1M & <= 10M,2020
-oau,0,0,0,0,13,> 10M & <= 100M,2020
-odakorea,53,380,0,0,145,<=1M,
-odi,0,1,0,0,3,> 10M & <= 100M,2018
+oau,0,0,0,0,12,> 10M & <= 100M,2020
+odakorea,29,153,0,0,87,No spend data for 2018-2020,
+odi,0,2,0,0,3,> 10M & <= 100M,2018
 odi_sales_ltd,0,2,0,0,0,> 1M & <= 10M,2018
 oecd,0,9,0,0,0,> 1M & <= 10M,2019
 ofid,0,8,0,0,0,> 100M & <= 1B,2018
 oisl_gh,0,0,0,0,0,<=1M,2019
-okapiconsulting,0,1,0,0,1,<=1M,
+okapiconsulting,0,1,0,0,1,No spend data for 2018-2020,
 omdm,0,1,0,0,1,<=1M,2018
-omidyarnetwork,6,0,0,0,0,<=1M,
-oneacrefund,0,4,0,0,6,> 100M & <= 1B,2019
-onetoonecf,0,1,0,0,0,<=1M,
-onl,0,23,0,0,0,> 100M & <= 1B,2018
+omidyarnetwork,2,0,0,0,0,No spend data for 2018-2020,
+oneacrefund,0,2,0,0,3,> 100M & <= 1B,2019
+onetoonecf,0,1,0,0,0,No spend data for 2018-2020,
+onl,0,2,0,0,0,> 100M & <= 1B,2018
 open_university,0,2,0,0,3,> 1M & <= 10M,2019
-openmindedly,0,23,0,0,0,<=1M,
-opennorth,0,0,0,0,0,<=1M,
-opml,3,4,0,0,1,<=1M,
-opportunity-international-uk,2,9,0,0,4,> 1M & <= 10M,2018
-options,1,1,0,0,7,> 10M & <= 100M,2018
-oqc,0,2,0,0,0,<=1M,2019
+openmindedly,0,23,0,0,0,No spend data for 2018-2020,
+opennorth,0,0,0,0,0,No spend data for 2018-2020,
+opml,1,4,0,0,1,No spend data for 2018-2020,
+opportunity-international-uk,1,5,0,0,2,> 1M & <= 10M,2018
+options,1,1,0,0,12,> 10M & <= 100M,2018
+oqc,0,1,0,0,0,<=1M,2019
 orbis_africa,0,2,0,0,0,<=1M,2018
-orbis_ethiopia,0,0,0,0,3,<=1M,2019
+orbis_ethiopia,0,0,0,0,0,<=1M,2019
 orbis_international,0,0,0,0,0,<=1M,2019
-orbis_uk,0,2,0,0,2,<=1M,2019
+orbis_uk,0,1,0,0,2,<=1M,2019
 orientame,0,0,0,0,0,<=1M,2018
 oww,0,2,0,0,5,> 1M & <= 10M,2019
-oxfamgb,0,482,0,0,152,> 100M & <= 1B,2018
-oxfamindia,0,6,0,0,0,<=1M,
-oxfamintermon,0,0,0,0,0,<=1M,
+oxfamgb,0,227,0,0,76,> 100M & <= 1B,2018
+oxfamindia,0,6,0,0,0,No spend data for 2018-2020,
+oxfamintermon,0,0,0,0,0,No spend data for 2018-2020,
 oxfamus,0,1,0,0,1,> 10M & <= 100M,2018
 oxford,0,0,0,0,1,<=1M,2020
 oxsol,0,2,0,0,1,> 1M & <= 10M,2019
 oyw,0,1,0,0,3,<=1M,2019
 p-t-f-,0,0,0,0,0,<=1M,2020
-pa,2,16,0,0,6,> 10M & <= 100M,2019
+pa,1,8,0,0,3,> 10M & <= 100M,2019
 pacam,0,1,0,0,1,<=1M,2018
-pact,2,10,0,0,1,<=1M,
-paf_2018,0,0,0,0,2,<=1M,
-palladium,0,4,0,0,4,> 10M & <= 100M,2018
+pact,2,10,0,0,1,No spend data for 2018-2020,
+paf_2018,0,0,0,0,2,No spend data for 2018-2020,
+palladium,0,4,0,0,5,> 10M & <= 100M,2018
 palladium_eur,0,0,0,0,0,> 10M & <= 100M,2020
-parakou,0,1,0,0,5,<=1M,
+parakou,0,1,0,0,5,No spend data for 2018-2020,
 partos_nl,0,4,0,0,1,> 1M & <= 10M,2018
-pasgr,0,2,0,0,2,> 1M & <= 10M,2019
+pasgr,0,1,0,0,1,> 1M & <= 10M,2019
 pax,1,2,0,0,2,> 10M & <= 100M,2018
-pca-gire,0,0,0,0,0,<=1M,
-pcf,0,4,0,0,10,<=1M,
+pca-gire,0,0,0,0,0,No spend data for 2018-2020,
+pcf,0,2,0,0,5,No spend data for 2018-2020,
 pcst,0,1,0,0,0,<=1M,2019
-peacedirect,0,1,0,0,0,<=1M,
+peacedirect,0,1,0,0,0,No spend data for 2018-2020,
 peas,1,12,0,0,2,> 1M & <= 10M,2018
-pegasys-eu,0,0,0,0,0,<=1M,
-peopleinaid,0,1,0,0,0,<=1M,
-pfg,0,1,0,0,3,<=1M,
-pgi_kenya,0,0,0,0,2,<=1M,
+pegasys-eu,0,0,0,0,0,No spend data for 2018-2020,
+peopleinaid,0,1,0,0,0,No spend data for 2018-2020,
+pfg,0,1,0,0,3,No spend data for 2018-2020,
+pgi_kenya,0,0,0,0,2,No spend data for 2018-2020,
 phase_worldwide,0,2,0,0,4,<=1M,2020
-phase-nepal,0,1,0,0,0,<=1M,
-phe,0,1,0,0,0,<=1M,
+phase-nepal,0,1,0,0,0,No spend data for 2018-2020,
+phe,0,1,0,0,0,No spend data for 2018-2020,
 pib,0,0,0,0,4,> 1M & <= 10M,2019
 pidg,1,4,0,0,4,> 10M & <= 100M,2018
-pin,6,95,0,0,18,> 100M & <= 1B,2020
+pin,7,107,0,0,20,> 100M & <= 1B,2020
 plama,0,1,0,0,4,<=1M,2019
-plan_ireland,0,2,0,0,0,<=1M,
+plan_ireland,0,2,0,0,0,No spend data for 2018-2020,
 plan_uk,0,10,0,0,0,> 10M & <= 100M,2020
-plan_usa,0,18,0,0,0,<=1M,
-planinternationalfinland,1,2,0,0,1,<=1M,
-plannlno,1,0,0,0,0,> 10M & <= 100M,2019
-plb,0,0,0,0,2,<=1M,
-pmc,0,1,0,0,0,<=1M,
+plan_usa,0,18,0,0,0,No spend data for 2018-2020,
+planinternationalfinland,1,2,0,0,1,No spend data for 2018-2020,
+plannlno,0,10,0,0,7,> 10M & <= 100M,2019
+plb,0,0,0,0,2,No spend data for 2018-2020,
+pmc,0,1,0,0,0,No spend data for 2018-2020,
 pmo-us,0,5,0,0,1,<=1M,2018
-pobe,0,1,0,0,3,<=1M,
-polea,0,0,0,0,0,<=1M,
-pont,1,10,0,0,1,<=1M,
-pontis,1,12,0,0,2,<=1M,
+pobe,0,1,0,0,3,No spend data for 2018-2020,
+polea,0,0,0,0,0,No spend data for 2018-2020,
+pont,1,10,0,0,1,No spend data for 2018-2020,
+pontis,1,12,0,0,2,No spend data for 2018-2020,
 populationcouncil,0,1,0,0,1,<=1M,2018
 posneg,0,1,0,0,0,<=1M,2018
-power,0,2,0,0,0,<=1M,
-practica,0,1,0,0,0,<=1M,
-pragya,0,5,0,0,1,<=1M,
+power,0,2,0,0,0,No spend data for 2018-2020,
+practica,0,1,0,0,0,No spend data for 2018-2020,
+pragya,0,5,0,0,1,No spend data for 2018-2020,
 prefa_1,0,1,0,0,0,<=1M,2018
-pri,5,5,0,0,2,<=1M,2019
+pri,2,5,0,0,2,<=1M,2019
 pri_icf,0,0,0,0,0,<=1M,2019
-progressio,1,14,0,0,2,<=1M,
-promsex,0,0,0,0,0,<=1M,
+progressio,1,14,0,0,2,No spend data for 2018-2020,
+promsex,0,0,0,0,0,No spend data for 2018-2020,
 prosperityfund,0,3,0,0,0,> 100M & <= 1B,2018
-protos,0,2,0,0,0,> 10M & <= 100M,2019
-psi,0,11,0,0,14,<=1M,
+prospero,6,0,0,0,0,No spend data for 2018-2020,
+protos,0,0,0,0,0,> 10M & <= 100M,2019
+psi,0,11,0,0,14,No spend data for 2018-2020,
 pskenya_19,0,1,0,0,0,> 10M & <= 100M,2019
-pstc_1102,0,0,0,0,2,<=1M,
-pumnl,0,5,0,0,0,> 10M & <= 100M,2019
+pstc_1102,0,0,0,0,2,No spend data for 2018-2020,
+pumnl,0,3,0,0,0,> 10M & <= 100M,2019
 pumpaid,0,2,0,0,1,<=1M,2018
 pwc,0,0,0,0,2,> 10M & <= 100M,2019
-pwcplindia,0,1,0,0,0,> 1M & <= 10M,2018
-pwyf,1,8,0,0,4,> 1M & <= 10M,2018
-qedjt,0,0,0,0,1,<=1M,
+pwcplindia,0,1,0,0,1,> 1M & <= 10M,2018
+pwyf,1,5,0,0,2,> 1M & <= 10M,2018
+qedjt,0,0,0,0,1,No spend data for 2018-2020,
 qrfed,0,0,0,0,0,> 1M & <= 10M,2019
 quinoa,0,2,0,0,1,<=1M,2018
-r4d,0,1,0,0,0,<=1M,
-rabo_partnerships,0,0,0,0,0,<=1M,
-rahuug,0,1,0,0,0,<=1M,
+r4d,0,1,0,0,0,No spend data for 2018-2020,
+rabo_partnerships,0,0,0,0,0,No spend data for 2018-2020,
+rahuug,0,1,0,0,0,No spend data for 2018-2020,
 rainforest-alliance,0,1,0,0,0,> 1M & <= 10M,2019
-rainfoundation,1,9,0,0,0,<=1M,
+rainfoundation,1,9,0,0,0,No spend data for 2018-2020,
 rains,0,0,0,0,0,<=1M,2019
 raleigh_int,0,0,0,0,0,<=1M,2018
 ran,0,0,0,0,0,<=1M,2019
@@ -907,289 +920,291 @@ rc,1,7,0,0,0,> 100M & <= 1B,2019
 rc2africa,0,0,0,0,1,<=1M,2018
 rc4d,0,4,0,0,0,<=1M,2019
 rcel,0,1,0,0,0,> 1M & <= 10M,2020
-rcgp-international,0,0,0,0,0,<=1M,
+rcgp-international,0,0,0,0,0,No spend data for 2018-2020,
 rcn,0,6,0,0,2,> 1M & <= 10M,2019
 rcog_resilience_in_obstetric_skills,0,1,0,0,1,<=1M,2018
 reach-iraq,0,0,0,0,1,<=1M,2018
 redbarnet,0,0,0,0,1,> 10M & <= 100M,2018
 redeenkind,0,2,0,0,2,> 1M & <= 10M,2020
 redruk,0,2,0,0,3,<=1M,2020
-rem,0,4,0,0,0,<=1M,
-resilience,0,1,0,0,2,<=1M,
-restartcenter,0,0,0,0,0,<=1M,
+rem,0,4,0,0,0,No spend data for 2018-2020,
+resilience,0,1,0,0,2,No spend data for 2018-2020,
+restartcenter,0,0,0,0,0,No spend data for 2018-2020,
 restless,0,4,0,0,6,> 1M & <= 10M,2018
-retrak,0,1,0,0,0,<=1M,
-rfpap,1,5,0,0,1,<=1M,
+retrak,0,1,0,0,0,No spend data for 2018-2020,
+rfpap,1,5,0,0,1,No spend data for 2018-2020,
 rfuk,0,1,0,0,0,> 1M & <= 10M,2018
-ri-uk,1,15,0,0,2,> 1M & <= 10M,2019
-riia,0,0,0,0,0,<=1M,
+ri-uk,0,5,0,0,4,> 1M & <= 10M,2019
+riia,0,0,0,0,0,No spend data for 2018-2020,
 rikolto,1,3,0,0,0,> 1M & <= 10M,2018
 rikolto_belgium,1,4,0,0,0,> 1M & <= 10M,2018
 rkiv,0,0,0,0,1,> 1M & <= 10M,2018
 rlb,0,1,0,0,1,> 1M & <= 10M,2019
-rmf,0,0,0,0,0,<=1M,
+rmf,0,0,0,0,0,No spend data for 2018-2020,
 rmf-lb,0,1,0,0,0,<=1M,2020
 rnli_international,0,0,0,0,0,<=1M,2020
-rojiroti,0,1,0,0,0,<=1M,
-rspb_,0,1,0,0,0,<=1M,
+rojiroti,0,1,0,0,0,No spend data for 2018-2020,
+rspb_,0,1,0,0,0,No spend data for 2018-2020,
 rtp,0,1,0,0,0,<=1M,2018
 ruaf,0,1,0,0,0,<=1M,2018
 rutgers,0,6,0,0,4,> 10M & <= 100M,2018
-rvo,1,64,0,0,23,> 100M & <= 1B,2018
+rvo,0,22,0,0,8,> 100M & <= 1B,2018
 sac_kenya,0,0,0,0,1,<=1M,2019
-sacbc,0,1,0,0,0,<=1M,
-sacethiopia,0,0,0,0,2,<=1M,
-sacu,0,3,0,0,3,<=1M,
+sacbc,0,1,0,0,0,No spend data for 2018-2020,
+sacethiopia,0,0,0,0,2,No spend data for 2018-2020,
+sacu,0,3,0,0,3,No spend data for 2018-2020,
 saferworld,0,4,0,0,6,> 10M & <= 100M,2018
-said-uk,0,2,0,0,0,<=1M,
-sas_sana,0,0,0,0,3,<=1M,
-savsign-org,0,1,0,0,2,<=1M,
-sawdf-admin,0,0,0,0,0,<=1M,
-sccf,0,4,0,0,0,<=1M,
+said-uk,0,2,0,0,0,No spend data for 2018-2020,
+sas_sana,0,0,0,0,3,No spend data for 2018-2020,
+savsign-org,0,1,0,0,2,No spend data for 2018-2020,
+sawdf-admin,0,0,0,0,0,No spend data for 2018-2020,
+sccf,0,4,0,0,0,No spend data for 2018-2020,
 sci,1,0,0,0,0,> 10M & <= 100M,2019
 sciaf,0,1,0,0,4,> 1M & <= 10M,2018
 scibelgium,0,2,0,0,0,<=1M,2019
-scm,0,3,0,0,0,<=1M,
+scm,0,3,0,0,0,No spend data for 2018-2020,
 scnl,0,40,0,0,11,> 10M & <= 100M,2018
-scottish_government,0,1,0,0,0,<=1M,
+scottish_government,0,1,0,0,0,No spend data for 2018-2020,
 scss,0,0,0,0,0,<=1M,2020
 sct,0,0,0,0,0,<=1M,2020
 scuk,2,0,0,0,0,> 10M & <= 100M,2018
-sdc_ch,0,32,0,0,8,> 1B,2018
+sdc_ch,0,24,0,0,6,> 1B,2018
 sddirect,0,1,0,0,3,> 1M & <= 10M,2018
-sdn,0,0,0,0,0,<=1M,2020
+sdn,0,0,0,0,1,<=1M,2020
 seefar,0,2,0,0,1,<=1M,2019
 sehatkahanicih,0,1,0,0,0,<=1M,2019
 self-help-africa,0,9,0,0,2,> 1B,2020
 sendacow,0,6,0,0,3,> 1M & <= 10M,2019
-sense_international,1,15,0,0,2,> 1M & <= 10M,2019
-ser,0,2,0,0,0,<=1M,
-sfcg,2,3,0,0,14,> 1M & <= 10M,2019
+sense_international,1,15,0,0,6,> 1M & <= 10M,2019
+ser,0,2,0,0,0,No spend data for 2018-2020,
+sfcg,1,1,0,0,5,> 1M & <= 10M,2019
 sfd-yemen,4,25,0,0,8,<=1M,2020
 sg,0,2,0,0,6,> 1M & <= 10M,2018
 shc,0,1,0,0,1,<=1M,2018
-shelterbox,0,1,0,0,0,<=1M,
-shiftproject,0,0,0,0,2,<=1M,
+shelterbox,0,1,0,0,0,No spend data for 2018-2020,
+shiftproject,0,0,0,0,2,No spend data for 2018-2020,
 shn,0,0,0,0,0,<=1M,2018
-shtrii_shakti,3,0,0,0,0,<=1M,
-si,0,2,0,0,0,<=1M,
+shtrii_shakti,1,0,0,0,0,No spend data for 2018-2020,
+si,0,2,0,0,0,No spend data for 2018-2020,
 si-mfa,0,0,0,0,5,> 1M & <= 10M,2020
-sida,59,437,0,0,0,> 1B,2018
-signal,0,2,0,0,1,<=1M,
-silsab1-_,0,0,0,0,1,<=1M,
+sida,0,37,0,0,0,> 1B,2018
+signal,0,2,0,0,1,No spend data for 2018-2020,
+silsab1-_,0,0,0,0,1,No spend data for 2018-2020,
 simavi,0,3,0,0,0,> 10M & <= 100M,2020
-simlab,0,6,0,0,1,<=1M,
-simone_sympany,1,2,0,0,0,<=1M,
-simprints,0,1,0,0,0,<=1M,
+simlab,0,6,0,0,1,No spend data for 2018-2020,
+simone_sympany,1,2,0,0,0,No spend data for 2018-2020,
+simprints,0,1,0,0,0,No spend data for 2018-2020,
 sinda,1,1,0,0,5,<=1M,2019
-siren,0,0,0,0,0,<=1M,
+siren,0,0,0,0,0,No spend data for 2018-2020,
 siwi,0,2,0,0,5,> 10M & <= 100M,2020
 sjg,0,3,0,0,3,> 1M & <= 10M,2018
 skn,0,2,0,0,0,> 1M & <= 10M,2018
 slf,0,1,0,0,0,<=1M,2018
-slovakaid,0,10,0,0,2,> 10M & <= 100M,2018
-snv,0,12,0,0,14,> 10M & <= 100M,2020
-solarnowsofa,0,3,0,0,1,<=1M,
+slovakaid,0,5,0,0,1,> 10M & <= 100M,2018
+snv,1,13,0,0,14,> 10M & <= 100M,2020
+solarnowsofa,0,3,0,0,1,No spend data for 2018-2020,
 solidagro_admin,0,1,0,0,2,> 1M & <= 10M,2018
-solidaridad,0,1,0,0,3,> 10M & <= 100M,2019
+solidaridad,0,1,0,0,2,> 10M & <= 100M,2019
 solidaridad-europe,0,2,0,0,2,> 1M & <= 10M,2019
-solidaridad-ssea,0,2,0,0,3,> 1M & <= 10M,2019
+solidaridad-ssea,0,2,0,0,2,> 1M & <= 10M,2019
 solidaridad-waf,0,1,0,0,2,> 1M & <= 10M,2019
-solidarites-international,0,1,0,0,0,<=1M,
+solidarites-international,0,1,0,0,0,No spend data for 2018-2020,
 solsoc,0,0,0,0,4,> 1M & <= 10M,2018
 somo,1,0,0,0,0,> 1M & <= 10M,2018
-soneb-benin,0,1,0,0,4,<=1M,
-soscvkenya,0,1,0,0,0,<=1M,
+soneb-benin,0,1,0,0,4,No spend data for 2018-2020,
+soscvkenya,0,1,0,0,0,No spend data for 2018-2020,
 sosfaim,0,0,0,0,1,> 1M & <= 10M,2018
-sosnl,0,6,0,0,12,> 1M & <= 10M,2020
-sossaheluk,0,1,0,0,0,<=1M,
+sosnl,0,4,0,0,9,> 1M & <= 10M,2020
+sossaheluk,0,1,0,0,0,No spend data for 2018-2020,
 soundseekers,0,1,0,0,2,<=1M,2018
-sowt,0,1,0,0,0,<=1M,
+sowt,0,1,0,0,0,No spend data for 2018-2020,
 spark,0,1,0,0,4,> 100M & <= 1B,2019
 spuk,1,5,0,0,2,<=1M,2018
 sqf,0,1,0,0,3,<=1M,2020
-sr,0,1,0,0,0,<=1M,
-ss-org,1,15,0,0,2,> 10M & <= 100M,2019
-ssn,0,0,0,0,6,> 1M & <= 10M,2019
+sr,0,1,0,0,0,No spend data for 2018-2020,
+ss-org,0,6,0,0,0,> 10M & <= 100M,2019
+ssn,0,0,0,0,3,> 1M & <= 10M,2019
 st_vluchteling,0,5,0,0,3,> 1M & <= 10M,2019
 stad,0,0,0,0,1,> 1M & <= 10M,2019
-starsfoundation,0,2,0,0,0,<=1M,
-stc-international,0,1,0,0,0,<=1M,
-stichting_hivos,0,6,0,0,2,> 10M & <= 100M,2020
+starsfoundation,0,2,0,0,0,No spend data for 2018-2020,
+stc-international,0,1,0,0,0,No spend data for 2018-2020,
+stichting_hivos,0,4,0,0,2,> 10M & <= 100M,2020
 stichting-subsidiegelden-dra,0,1,0,0,0,> 10M & <= 100M,2019
 stichtingfern,0,0,0,0,0,<=1M,2019
 street_child,0,1,0,0,4,> 1M & <= 10M,2020
-stromme_ug,0,2,0,0,1,<=1M,
+stromme_ug,0,2,0,0,1,No spend data for 2018-2020,
 surf,1,4,0,0,0,<=1M,2020
 svdbskb_admin,0,4,0,0,0,> 1M & <= 10M,2018
-swb_1,3,5,0,0,2,<=1M,
+swb_1,1,3,0,0,2,No spend data for 2018-2020,
 synergiaihr,0,0,0,0,0,> 1M & <= 10M,2020
-taf,10,50,0,0,17,> 1M & <= 10M,2020
-tamtf,1,5,0,0,1,<=1M,
-tao-03473165,1,9,0,0,1,<=1M,
-targettb,1,3,0,0,0,<=1M,
-tb-a,0,0,0,0,1,<=1M,
+taf,10,50,0,0,18,> 1M & <= 10M,2020
+tamtf,1,5,0,0,1,No spend data for 2018-2020,
+tao-03473165,1,9,0,0,1,No spend data for 2018-2020,
+targettb,1,3,0,0,0,No spend data for 2018-2020,
+tb-a,0,0,0,0,1,No spend data for 2018-2020,
 tbalert,1,3,0,0,1,<=1M,2018
 tbi,0,3,0,0,5,> 1M & <= 10M,2019
-tccec,0,1,0,0,0,<=1M,
-tdh_foundation,0,0,0,0,3,> 1M & <= 10M,2020
-tdh_nl,0,8,0,0,2,> 10M & <= 100M,2019
-tear,0,5,0,0,0,> 1M & <= 10M,2020
-tearfund,2,8,0,0,2,> 1M & <= 10M,2019
-tfac,0,1,0,0,4,<=1M,
-tfacmalawi,0,2,0,0,3,<=1M,
+tccec,0,1,0,0,0,No spend data for 2018-2020,
+tdh_foundation,0,0,0,0,1,> 1M & <= 10M,2020
+tdh_nl,0,4,0,0,1,> 10M & <= 100M,2019
+tear,1,3,0,0,0,> 1M & <= 10M,2020
+tearfund,1,4,0,0,3,> 1M & <= 10M,2019
+tfac,0,1,0,0,4,No spend data for 2018-2020,
+tfacmalawi,0,2,0,0,3,No spend data for 2018-2020,
 tfb_admin1,0,4,0,0,0,<=1M,2018
 tff,0,0,0,0,0,<=1M,2020
+tgh,0,0,0,0,2,<=1M,2020
 the_mentor_initiative,0,0,0,0,2,> 1M & <= 10M,2019
 the_power_of_nutrition,0,0,0,0,0,> 10M & <= 100M,2018
-theglobalfund,0,13,0,0,57,> 1B,2020
-theict,1,5,0,0,1,<=1M,
+theglobalfund,0,4,0,0,30,> 1B,2020
+theict,1,5,0,0,1,No spend data for 2018-2020,
 thp_org,0,1,0,0,1,> 1M & <= 10M,2018
 ti_kenya,0,1,0,0,1,<=1M,2019
 ti-uk,0,1,0,0,1,> 1M & <= 10M,2018
 tib,0,109,0,0,32,> 10M & <= 100M,2018
-ticah,0,0,0,0,1,<=1M,
+ticah,0,0,0,0,1,No spend data for 2018-2020,
 timidria,0,2,0,0,0,<=1M,2018
 tkf1234,0,0,0,0,1,<=1M,2019
 tlmew,0,4,0,0,12,<=1M,2020
-tlmnepal,0,0,0,0,0,<=1M,2020
+tlmnepal,0,0,0,0,1,<=1M,2020
 tmea,0,2,0,0,0,> 10M & <= 100M,2019
 tni,0,1,0,0,4,> 1M & <= 10M,2018
 tns,0,0,0,0,3,<=1M,2019
-toffo,0,1,0,0,5,<=1M,
-toviklin,0,1,0,0,5,<=1M,
+toffo,0,1,0,0,5,No spend data for 2018-2020,
+toviklin,0,1,0,0,5,No spend data for 2018-2020,
 traidcraft,0,1,0,0,0,<=1M,2019
 transafrica19,0,0,0,0,1,<=1M,2020
-transforma,0,1,0,0,0,<=1M,
-transparency-international,52,1,0,0,3,> 1M & <= 10M,2019
+transforma,0,1,0,0,0,No spend data for 2018-2020,
+transparency-international,53,1,0,0,3,> 1M & <= 10M,2019
 treea,0,0,0,0,2,<=1M,2020
-trf,0,0,0,0,0,<=1M,
+trf,0,0,0,0,0,No spend data for 2018-2020,
 trianglen,0,0,0,0,0,<=1M,2018
 trias,0,2,0,0,0,> 10M & <= 100M,2019
-trig,0,2,0,0,1,<=1M,
-tripleline_crownagents,1,2,0,0,0,<=1M,
+trig,0,2,0,0,1,No spend data for 2018-2020,
+tripleline_crownagents,1,2,0,0,0,No spend data for 2018-2020,
 troc,0,1,0,0,0,<=1M,2018
 trocaire,0,1,0,0,0,> 1M & <= 10M,2019
 tropicalhealth,0,0,0,0,0,> 1M & <= 10M,2018
-twaweza,1,6,0,0,0,<=1M,
-twin-iati,1,5,0,0,0,<=1M,
-twynstragudde,0,0,0,0,2,<=1M,
-uaf,0,0,0,0,0,<=1M,
+tuos,0,0,0,0,3,No spend data for 2018-2020,
+twaweza,1,6,0,0,0,No spend data for 2018-2020,
+twin-iati,1,5,0,0,0,No spend data for 2018-2020,
+twynstragudde,0,0,0,0,2,No spend data for 2018-2020,
+uaf,0,0,0,0,0,No spend data for 2018-2020,
 uaf-africa,0,1,0,0,0,<=1M,2018
 uafla,0,0,0,0,0,<=1M,2018
-uasd,9,0,0,0,0,<=1M,
-uawc,0,0,0,0,0,<=1M,
+uasd,3,0,0,0,0,No spend data for 2018-2020,
+uawc,0,0,0,0,0,No spend data for 2018-2020,
 ub,0,1,0,0,0,<=1M,2019
-ucl,0,0,0,0,0,<=1M,
-uclan,0,0,0,0,0,<=1M,
+ucl,0,0,0,0,0,No spend data for 2018-2020,
+uclan,0,0,0,0,0,No spend data for 2018-2020,
 ucos,0,1,0,0,1,<=1M,2018
 uct,0,0,0,0,0,<=1M,2020
-udom,0,0,0,0,0,<=1M,
+udom,0,0,0,0,0,No spend data for 2018-2020,
 udpk,1,1,0,0,1,<=1M,2019
-udsm-cbs,0,2,0,0,0,<=1M,
-uhai-eashri,0,2,0,0,0,<=1M,
-uk-med,0,0,0,0,0,<=1M,2020
+udsm-cbs,0,1,0,0,0,No spend data for 2018-2020,
+uhai-eashri,0,1,0,0,0,No spend data for 2018-2020,
+uk-med,0,1,0,0,0,<=1M,2020
 ukmod,0,2,0,0,2,> 1M & <= 10M,2019
 ulbcoop,0,1,0,0,2,> 1M & <= 10M,2019
-umati,0,1,0,0,0,<=1M,
+umati,0,1,0,0,0,No spend data for 2018-2020,
 umn,0,0,0,0,0,<=1M,2018
-umu,0,0,0,0,0,<=1M,
-un-environment,0,8,0,0,0,<=1M,
+umu,0,0,0,0,1,No spend data for 2018-2020,
+un-environment,0,8,0,0,0,No spend data for 2018-2020,
 unaids,0,1,0,0,0,> 10M & <= 100M,2020
 unais,0,0,0,0,0,> 1M & <= 10M,2018
 uncdf,0,2,0,0,1,> 10M & <= 100M,2019
 undco,0,0,0,0,0,> 100M & <= 1B,2019
-undp,0,202,0,0,890,> 1B,2018
-unesco,0,22,0,0,4,> 100M & <= 1B,2019
-unf,0,4,0,0,0,> 1M & <= 10M,2018
-unfpa,2,1903,0,0,5,> 100M & <= 1B,2020
-ungc-uk,0,0,0,0,1,<=1M,
-unhabitat,1,13,0,0,2,<=1M,
-unhcr,0,9,0,0,11,> 1B,2019
+undp,0,111,0,0,455,> 1B,2018
+unesco,1,23,0,0,4,> 100M & <= 1B,2019
+unf,0,2,0,0,0,> 1M & <= 10M,2018
+unfpa,1,1198,0,0,5,> 100M & <= 1B,2020
+ungc-uk,0,0,0,0,1,No spend data for 2018-2020,
+unhabitat,1,0,0,0,0,No spend data for 2018-2020,
+unhcr,0,6,0,0,7,> 1B,2019
 uni_of_nottingham,0,0,0,0,0,<=1M,2019
-unicef,0,2713,0,0,49,> 1B,2020
-unicefnl,0,3,0,0,0,> 1M & <= 10M,2018
+unicef,0,2620,0,0,45,> 1B,2020
+unicefnl,0,1,0,0,0,> 1M & <= 10M,2018
 unido,0,12,0,0,1,> 100M & <= 1B,2019
-united_work,0,1,0,0,0,<=1M,
-unitedstates,0,1,0,0,294,> 1B,2019
-universiteit_leiden,0,6,0,0,0,<=1M,2019
+united_work,0,1,0,0,0,No spend data for 2018-2020,
+unitedstates,1,2,0,0,146,> 1B,2019
+universiteit_leiden,0,3,0,0,0,<=1M,2019
 universityofbirmingham,0,2,0,0,0,> 1M & <= 10M,2019
-unocha,0,0,0,0,27,> 100M & <= 1B,2018
-unocha-cbpf,127,1753,0,0,0,> 100M & <= 1B,2020
+unocha,0,0,0,0,9,> 100M & <= 1B,2018
+unocha-cbpf,127,657,0,0,0,> 100M & <= 1B,2020
 unocha-sdc,0,1,0,0,4,> 1M & <= 10M,2020
-unops,143,63,0,0,1,> 1M & <= 10M,2019
-unpf,0,6,0,0,6,<=1M,
-unrwa,0,13,0,0,0,> 1B,2020
-unw,0,7,0,0,2,> 100M & <= 1B,2019
-uodcepmlp,0,0,0,0,1,<=1M,
+unops,0,507,0,0,76,> 1M & <= 10M,2019
+unpf,0,6,0,0,6,No spend data for 2018-2020,
+unrwa,0,10,0,0,0,> 1B,2020
+unw,0,4,0,0,1,> 100M & <= 1B,2019
+uodcepmlp,0,0,0,0,1,No spend data for 2018-2020,
 uol,0,0,0,0,0,<=1M,2019
 uom,0,0,0,0,0,<=1M,2020
 uq,0,0,0,0,0,> 1M & <= 10M,2018
 us-imawh,0,0,0,0,4,> 10M & <= 100M,2019
-usaid,3,394,0,0,0,> 1B,2020
-utd,0,7,0,0,0,> 100M & <= 1B,2020
-utwente,0,0,0,0,2,<=1M,
+usaid,1,193,0,0,0,> 1B,2020
+utd,0,2,0,0,0,> 100M & <= 1B,2020
+utwente,0,0,0,0,2,No spend data for 2018-2020,
 utz,0,0,0,0,2,> 1M & <= 10M,2018
 uva_org,0,3,0,0,3,<=1M,2018
 uvcw,0,2,0,0,1,> 1M & <= 10M,2019
-uvw,0,1,0,0,1,> 1M & <= 10M,2019
+uvw,0,0,0,0,0,> 1M & <= 10M,2019
 uwezo_youth_empowerment,0,1,0,0,0,<=1M,2018
-vao,0,3,0,0,0,<=1M,
+vao,0,3,0,0,0,No spend data for 2018-2020,
 varkeyfoundation,0,1,0,0,2,> 1M & <= 10M,2018
 vei_nl,0,1,0,0,1,> 10M & <= 100M,2019
-vfan,0,0,0,0,1,<=1M,
+vfan,0,0,0,0,1,No spend data for 2018-2020,
 vfi,0,0,0,0,0,<=1M,2019
-vhai-org,0,1,0,0,0,<=1M,
+vhai-org,0,1,0,0,0,No spend data for 2018-2020,
 via-db,0,1,0,0,1,> 1M & <= 10M,2018
-villageenterprise,0,1,0,0,0,<=1M,
+villageenterprise,0,1,0,0,0,No spend data for 2018-2020,
 villagewater,0,1,0,0,0,<=1M,2020
 viva,0,1,0,0,1,> 1M & <= 10M,2018
 vlir-uos,0,2,0,0,0,> 10M & <= 100M,2018
-vngi,3,9,0,0,10,> 1M & <= 10M,2018
-vsfbelgium,0,2,0,0,0,> 1M & <= 10M,2018
+vngi,1,4,0,0,6,> 1M & <= 10M,2018
+vsfbelgium,0,0,0,0,0,> 1M & <= 10M,2018
 vso,0,4,0,0,4,> 10M & <= 100M,2018
 vvob,0,0,0,0,1,> 1M & <= 10M,2019
 vvsg,0,0,0,0,1,> 1M & <= 10M,2018
-w_r_c,0,1,0,0,1,<=1M,
+w_r_c,0,1,0,0,1,No spend data for 2018-2020,
 w-d,0,1,0,0,0,> 1M & <= 10M,2019
-w4p,0,10,0,0,0,<=1M,
-wacc-uk,0,1,0,0,0,<=1M,
-wag-1983,0,0,0,0,0,<=1M,
-wageningen_ur,0,12,0,0,6,> 10M & <= 100M,2018
-wai,0,0,0,0,0,<=1M,
-warchildholland,0,11,0,0,8,> 10M & <= 100M,2018
-waronwant,0,3,0,0,0,<=1M,
+w4p,0,10,0,0,0,No spend data for 2018-2020,
+wacc-uk,0,1,0,0,0,No spend data for 2018-2020,
+wag-1983,0,0,0,0,0,No spend data for 2018-2020,
+wageningen_ur,0,6,0,0,3,> 10M & <= 100M,2018
+wai,0,0,0,0,0,No spend data for 2018-2020,
+warchildholland,0,10,0,0,8,> 10M & <= 100M,2018
+waronwant,0,3,0,0,0,No spend data for 2018-2020,
 waste,0,2,0,0,1,<=1M,2018
-wasteaid,0,1,0,0,0,<=1M,
+wasteaid,0,1,0,0,0,No spend data for 2018-2020,
 water-witness-international,0,3,0,0,0,<=1M,2018
 wateraid,0,29,0,0,2,> 10M & <= 100M,2018
-waterworks,0,1,0,0,1,<=1M,
+waterworks,0,1,0,0,1,No spend data for 2018-2020,
 wba,0,1,0,0,0,> 1M & <= 10M,2019
-wbtf,5,622,0,0,671,> 1B,2020
-wcc,0,0,0,0,0,<=1M,
+wbtf,5,625,0,0,668,> 1B,2020
+wcc,0,0,0,0,0,No spend data for 2018-2020,
 wccuk,0,1,0,0,0,<=1M,2019
-wcf,0,3,0,0,0,<=1M,
+wcf,0,3,0,0,0,No spend data for 2018-2020,
 wcs,0,0,0,0,0,<=1M,2019
 wcuk,1,20,0,0,2,> 100M & <= 1B,2019
-wecf,0,2,0,0,2,<=1M,
+wecf,0,2,0,0,2,No spend data for 2018-2020,
 wedo,0,3,0,0,2,<=1M,2018
-weeffect,1,8,0,0,1,<=1M,
-weforum_geneva,0,0,0,0,0,<=1M,
-wei,0,0,0,0,4,<=1M,
+weeffect,1,8,0,0,1,No spend data for 2018-2020,
+weforum_geneva,0,0,0,0,0,No spend data for 2018-2020,
+wei,0,0,0,0,2,No spend data for 2018-2020,
 welbodipartnership,0,2,0,0,0,<=1M,2018
 wellfound,0,3,0,0,1,<=1M,2020
 wemos,0,0,0,0,0,> 1M & <= 10M,2018
-wep,0,1,0,0,0,> 1M & <= 10M,2019
+wep,0,1,0,0,1,> 1M & <= 10M,2019
 wf-asia,0,1,0,0,0,> 1M & <= 10M,2019
-wfd,0,0,0,0,1,<=1M,
-wff,0,1,0,0,0,> 1M & <= 10M,2018
+wfd,0,0,0,0,1,No spend data for 2018-2020,
+wff,0,0,0,0,0,> 1M & <= 10M,2018
 wfm-igp,0,1,0,0,2,<=1M,2018
 wfp,0,0,0,0,0,> 1B,2020
-wfwiuk,0,5,0,0,8,> 1M & <= 10M,2019
+wfwiuk,0,3,0,0,4,> 1M & <= 10M,2019
 wgnrr_iati,0,1,0,0,0,<=1M,2018
-whh,0,0,0,0,0,<=1M,
-who,8,853,0,0,175,> 1B,2019
-whpca,0,1,0,0,3,<=1M,2020
+whh,0,0,0,0,0,No spend data for 2018-2020,
+who,175,853,0,0,175,> 1B,2019
+whpca,0,1,0,0,0,<=1M,2020
 whw2019,0,0,0,0,0,<=1M,2020
 wi,0,2,0,0,5,> 10M & <= 100M,2019
 win,0,0,0,0,1,> 1M & <= 10M,2018
@@ -1197,22 +1212,22 @@ wjr_001,0,0,0,0,0,> 1M & <= 10M,2020
 wnf,0,1,0,0,2,> 1M & <= 10M,2018
 wo-men,0,2,0,0,1,<=1M,2019
 woda_0486,0,0,0,0,0,<=1M,2018
-womankindworld,1,8,0,0,0,<=1M,2020
-worldbank,37,578,0,0,446,> 1B,2020
-worldeconomicforum,0,0,0,0,2,<=1M,
+womankindworld,1,8,0,0,3,<=1M,2020
+worldbank,142,3,0,0,3,> 1B,2020
+worldeconomicforum,0,0,0,0,2,No spend data for 2018-2020,
 worldveg,0,0,0,0,8,> 1M & <= 10M,2018
 worldwaternet,0,1,0,0,0,> 1M & <= 10M,2018
-wowni,0,1,0,0,0,<=1M,
-wpp,0,0,0,0,0,<=1M,
+wowni,0,1,0,0,0,No spend data for 2018-2020,
+wpp,0,0,0,0,0,No spend data for 2018-2020,
 wri,0,3,0,0,4,> 1M & <= 10M,2018
 wsm,0,2,0,0,0,> 1M & <= 10M,2019
-wsup,0,2,0,0,1,<=1M,
-wtk,0,1,0,0,0,<=1M,
+wsup,0,2,0,0,1,No spend data for 2018-2020,
+wtk,0,1,0,0,0,No spend data for 2018-2020,
 wusc,0,2,0,0,1,> 1M & <= 10M,2019
-wv_de,0,1,0,0,0,<=1M,
+wv_de,0,1,0,0,0,No spend data for 2018-2020,
 wvi,0,0,0,0,1,> 1B,2020
-wvnld,0,6,0,0,8,> 10M & <= 100M,2020
-wvsyria,0,0,0,0,0,<=1M,
+wvnld,0,3,0,0,8,> 10M & <= 100M,2020
+wvsyria,0,0,0,0,0,No spend data for 2018-2020,
 wvuk,11,113,0,0,12,> 10M & <= 100M,2019
 wvz-gec,0,1,0,0,2,<=1M,2019
 ww-gvc,0,0,0,0,0,> 1M & <= 10M,2018
@@ -1220,20 +1235,20 @@ wwf-be,0,2,0,0,2,> 1M & <= 10M,2018
 wwf-se,1,10,0,0,1,> 1M & <= 10M,2018
 wwf-uk,0,10,0,0,0,<=1M,2020
 wwfdk,0,1,0,0,1,<=1M,2018
-wwfpakistan,0,2,0,0,0,<=1M,
+wwfpakistan,0,2,0,0,0,No spend data for 2018-2020,
 wws,0,2,0,0,1,<=1M,2018
 wygi,0,1,0,0,3,> 10M & <= 100M,2020
-yai-hub,0,2,0,0,3,<=1M,
-ybi,0,4,0,0,0,<=1M,
-ycare,0,4,0,0,1,<=1M,2019
+yai-hub,0,2,0,0,3,No spend data for 2018-2020,
+ybi,0,4,0,0,0,No spend data for 2018-2020,
+ycare,0,4,0,0,5,<=1M,2019
 yffhsd,0,0,0,0,3,<=1M,2018
-yipl,0,1,0,0,1,<=1M,
+yipl,0,1,0,0,1,No spend data for 2018-2020,
 ylabs,0,0,0,0,0,<=1M,2020
-yoneco1997,0,0,0,0,1,<=1M,
+yoneco1997,0,0,0,0,1,No spend data for 2018-2020,
 ywcabd,0,0,0,0,0,<=1M,2018
-ze,0,1,0,0,3,<=1M,
-zet,0,2,0,0,0,<=1M,
-zing,0,1,0,0,0,<=1M,
-zoa,0,16,0,0,12,> 10M & <= 100M,2019
+ze,0,1,0,0,3,No spend data for 2018-2020,
+zet,0,2,0,0,0,No spend data for 2018-2020,
+zing,0,1,0,0,0,No spend data for 2018-2020,
+zoa,0,6,0,0,4,> 10M & <= 100M,2019
 zoa_uk,0,1,0,0,0,<=1M,2018
-zsl,0,6,0,0,4,<=1M,
+zsl,0,6,0,0,4,No spend data for 2018-2020,

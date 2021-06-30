@@ -16,17 +16,16 @@ org_ids = unique(org_ids[,c("IATI Organisation Identifier","publisher")])
 setnames(org_ids,"IATI Organisation Identifier","reporting_org_ref")
 org_categories = fread("output/IATI_publishers_by_spend.csv")
 org_categories = merge(org_categories, org_ids, by="reporting_org_ref", all=T)
-org_categories$category[which(is.na(org_categories$category))] = "<=1M"
+org_categories$category[which(is.na(org_categories$category))] = "No spend data for 2018-2020"
 
 org_categories = subset(org_categories,year %in% c(2018,2019,2020))
 org_cat_max = data.table(org_categories)[,.(category=category[which.max(.SD$value_usd)],year=year[which.max(.SD$value_usd)]),by=.(reporting_org_ref)]
 org_cat_max = merge(org_cat_max, org_ids, by="reporting_org_ref",all=T)
-org_cat_max$category[which(is.na(org_cat_max$category))] = "<=1M"
+org_cat_max$category[which(is.na(org_cat_max$category))] = "No spend data for 2018-2020"
 org_cat_max$reporting_org_ref = NULL
 setnames(org_cat_max,"year","category_year")
 
-# test_url = "https://iativalidator.iatistandard.org/api/v1/stats?date=2021-01-11"
-test_url = "http://stage.iativalidator.iatistandard.org/api/v1/stats?date=2020-12-31"
+test_url = "https://iativalidator.iatistandard.org/api/v1/stats?date=2021-02-15"
 
 test_json = fromJSON(test_url)
 publishers = test_json$publisher
@@ -61,11 +60,11 @@ close(pb)
 all.messages = rbindlist(meta.mess.list)
 all.messages = all.messages[order(all.messages$publisher),]
 all.messages = merge(all.messages, org_cat_max, by="publisher", all.x=T)
-all.messages$category[which(is.na(all.messages$category))] = "<=1M"
+all.messages$category[which(is.na(all.messages$category))] = "No spend data for 2018-2020"
 all.summaries = rbindlist(meta.sum.list)
 setnames(all.summaries,"count","value")
 all.summaries.wide = dcast(all.summaries,publisher~name)
 all.summaries.wide = merge(all.summaries.wide, org_cat_max, by="publisher", all.x=T)
-all.summaries.wide$category[which(is.na(all.summaries.wide$category))] = "<=1M"
+all.summaries.wide$category[which(is.na(all.summaries.wide$category))] = "No spend data for 2018-2020"
 fwrite(all.messages,"output/all_messages.csv")
 fwrite(all.summaries.wide,"output/all_summaries.csv")
