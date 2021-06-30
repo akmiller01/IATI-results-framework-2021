@@ -47,6 +47,9 @@ for(test_publisher in publishers){
   }
   messDf = rbindlist(messList)
   messDf = subset(messDf,!is.na(count))
+  if(nrow(messDf)==0){
+    messDf = data.frame(code="0.0.0",text="No messages for publisher",count=0)
+  }
   messDf$publisher = test_publisher
   sumStats = row$summaryStats
   sumDf = data.frame(names(sumStats),unlist(t(sumStats)))
